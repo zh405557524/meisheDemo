@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 定义为矩形形状 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 设置线性渐变 -->
+    <!-- 渐变角度为 0 度，代表从左到右 -->
+    <!-- 起始颜色为 #F46E4E，结束颜色为 #FFFFFF -->
+    <gradient
+        android:angle="0"
+        android:endColor="#1865E2"
+        android:centerColor="#1865E2"
+        android:startColor="#1865E2"
+        android:type="linear" />
+
+    <!-- 圆角大小引用 dimens.xml 中定义的值 -->
+    <corners android:radius="@dimen/dp_2" />
+</shape>

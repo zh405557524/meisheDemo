@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 边缘线宽 1dp，颜色 #1865E2 -->
+    <stroke
+        android:width="@dimen/dp_1"
+        android:color="#1865E2" />
+
+    <!-- 填充色 #FFFFFFFF (白色) -->
+    <solid android:color="#FFFFFFFF" />
+
+    <!-- 圆角半径 48dp -->
+    <corners android:radius="@dimen/dp_48" />
+</shape>

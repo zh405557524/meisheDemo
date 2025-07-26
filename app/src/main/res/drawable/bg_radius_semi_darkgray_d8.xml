@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 设置填充颜色为 #B3333333 -->
+    <solid android:color="#B3333333" />
+
+    <!-- 设置圆角半径为 @dimen/dp_8 -->
+    <corners
+        android:bottomLeftRadius="@dimen/dp_8"
+        android:bottomRightRadius="@dimen/dp_8" />
+
+</shape>

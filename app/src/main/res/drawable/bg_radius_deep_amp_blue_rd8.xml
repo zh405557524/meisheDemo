@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 渐变背景设置：起始色 #2C5FF3 到结束色 #4983EB -->
+    <gradient
+        android:angle="270"
+        android:startColor="#2C5FF3"
+        android:endColor="#4983EB"
+        android:type="linear" />
+
+    <!-- 圆角设置为8dp -->
+    <corners android:radius="@dimen/dp_8" />
+
+</shape>

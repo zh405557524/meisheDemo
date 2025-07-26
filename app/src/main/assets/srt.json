@@ -1,0 +1,3937 @@
+ [
+        {
+            "end_time": 1320.0,
+            "sentence": "我妈让我不许吃垃圾食品",
+            "start_time": 0.0
+        },
+        {
+            "end_time": 2200.0,
+            "sentence": "穿进恐怖游戏后",
+            "start_time": 1320.0
+        },
+        {
+            "end_time": 2800.0,
+            "sentence": "我躲在商店",
+            "start_time": 2200.0
+        },
+        {
+            "end_time": 3360.0,
+            "sentence": "左一个汉堡",
+            "start_time": 2800.0
+        },
+        {
+            "end_time": 4080.0,
+            "sentence": "右一杯奶茶",
+            "start_time": 3360.0
+        },
+        {
+            "end_time": 5000.0,
+            "sentence": "直到 boss 降临",
+            "start_time": 4080.0
+        },
+        {
+            "end_time": 6080.0,
+            "sentence": "其他玩家抱头鼠窜",
+            "start_time": 5000.0
+        },
+        {
+            "end_time": 7160.0,
+            "sentence": "我死也要做个饱死鬼",
+            "start_time": 6080.0
+        },
+        {
+            "end_time": 8040.0,
+            "sentence": "愣是没停止吃",
+            "start_time": 7160.0
+        },
+        {
+            "end_time": 9440.0,
+            "sentence": "结果 boss 咆哮小宝",
+            "start_time": 8040.0
+        },
+        {
+            "end_time": 10300.0,
+            "sentence": "你又吃垃圾",
+            "start_time": 9440.0
+        },
+        {
+            "end_time": 11500.0,
+            "sentence": "我擦妈",
+            "start_time": 10440.0
+        },
+        {
+            "end_time": 12480.0,
+            "sentence": "被拉进恐怖游戏后",
+            "start_time": 11600.0
+        },
+        {
+            "end_time": 14160.0,
+            "sentence": "我仅用了0.1秒就接受了事实",
+            "start_time": 12480.0
+        },
+        {
+            "end_time": 14960.0,
+            "sentence": "因为我运气不错",
+            "start_time": 14160.0
+        },
+        {
+            "end_time": 15800.0,
+            "sentence": "被拉到了商店",
+            "start_time": 14960.0
+        },
+        {
+            "end_time": 16560.0,
+            "sentence": "放眼望去",
+            "start_time": 15800.0
+        },
+        {
+            "end_time": 16800.0,
+            "sentence": "薯片",
+            "start_time": 16560.0
+        },
+        {
+            "end_time": 17040.0,
+            "sentence": "奶茶",
+            "start_time": 16800.0
+        },
+        {
+            "end_time": 17280.0,
+            "sentence": "炸鸡",
+            "start_time": 17040.0
+        },
+        {
+            "end_time": 17520.0,
+            "sentence": "汉堡",
+            "start_time": 17280.0
+        },
+        {
+            "end_time": 18400.0,
+            "sentence": "披萨全在勾引我",
+            "start_time": 17520.0
+        },
+        {
+            "end_time": 19720.0,
+            "sentence": "我妈从来不让我吃这些",
+            "start_time": 18400.0
+        },
+        {
+            "end_time": 21080.0,
+            "sentence": "他总说这些是垃圾食品",
+            "start_time": 19720.0
+        },
+        {
+            "end_time": 21760.0,
+            "sentence": "后来他死了",
+            "start_time": 21080.0
+        },
+        {
+            "end_time": 22360.0,
+            "sentence": "我成了锅",
+            "start_time": 21760.0
+        },
+        {
+            "end_time": 23160.0,
+            "sentence": "就更没钱吃了",
+            "start_time": 22360.0
+        },
+        {
+            "end_time": 25160.0,
+            "sentence": "旁边的玩家开口这些食物肯定有问题",
+            "start_time": 23160.0
+        },
+        {
+            "end_time": 26140.0,
+            "sentence": "大家不要上当",
+            "start_time": 25160.0
+        },
+        {
+            "end_time": 28500.0,
+            "sentence": "恐怖游戏里你看到的一切都有可能是假的",
+            "start_time": 26200.0
+        },
+        {
+            "end_time": 29280.0,
+            "sentence": "真的吗",
+            "start_time": 28640.0
+        },
+        {
+            "end_time": 31320.0,
+            "sentence": "我又望了一眼近在咫尺的汉堡好香",
+            "start_time": 29280.0
+        },
+        {
+            "end_time": 33560.0,
+            "sentence": "我肚子咕一声他只是一个香香的小汉堡而已",
+            "start_time": 31320.0
+        },
+        {
+            "end_time": 34560.0,
+            "sentence": "能有什么问题呢",
+            "start_time": 33560.0
+        },
+        {
+            "end_time": 35440.0,
+            "sentence": "吃了总比饿死好",
+            "start_time": 34560.0
+        },
+        {
+            "end_time": 36360.0,
+            "sentence": "于是我拿起来咬了一口",
+            "start_time": 35440.0
+        },
+        {
+            "end_time": 36920.0,
+            "sentence": "用料扎实",
+            "start_time": 36360.0
+        },
+        {
+            "end_time": 37600.0,
+            "sentence": "好满足",
+            "start_time": 37040.0
+        },
+        {
+            "end_time": 39060.0,
+            "sentence": "我几口就解决了汉堡",
+            "start_time": 37600.0
+        },
+        {
+            "end_time": 39800.0,
+            "sentence": "伸手去拿薯片",
+            "start_time": 39080.0
+        },
+        {
+            "end_time": 40360.0,
+            "sentence": "嘎嘣脆",
+            "start_time": 39800.0
+        },
+        {
+            "end_time": 40880.0,
+            "sentence": "好爽",
+            "start_time": 40360.0
+        },
+        {
+            "end_time": 41600.0,
+            "sentence": "再来杯奶茶",
+            "start_time": 40880.0
+        },
+        {
+            "end_time": 42720.0,
+            "sentence": "葡萄味的更美了",
+            "start_time": 41600.0
+        },
+        {
+            "end_time": 43400.0,
+            "sentence": "见我吃的香",
+            "start_time": 42720.0
+        },
+        {
+            "end_time": 44400.0,
+            "sentence": "其他人也蠢蠢欲动",
+            "start_time": 43400.0
+        },
+        {
+            "end_time": 45440.0,
+            "sentence": "看到这里的公主真美啊",
+            "start_time": 44400.0
+        },
+        {
+            "end_time": 45920.0,
+            "sentence": "可以点个赞吗",
+            "start_time": 45440.0
+        },
+        {
+            "end_time": 47320.0,
+            "sentence": "公主你还能长高10厘米呦",
+            "start_time": 45920.0
+        },
+        {
+            "end_time": 47840.0,
+            "sentence": "能评论吗",
+            "start_time": 47440.0
+        },
+        {
+            "end_time": 49160.0,
+            "sentence": "公主你还能瘦20斤呢",
+            "start_time": 47840.0
+        },
+        {
+            "end_time": 50880.0,
+            "sentence": "啥也不干的会反弹3斤回去",
+            "start_time": 49160.0
+        },
+        {
+            "end_time": 51280.0,
+            "sentence": "哈哈",
+            "start_time": 50880.0
+        },
+        {
+            "end_time": 52440.0,
+            "sentence": "或者评论区打出反弹",
+            "start_time": 51280.0
+        },
+        {
+            "end_time": 53440.0,
+            "sentence": "可以全部反弹给博主哦",
+            "start_time": 52440.0
+        },
+        {
+            "end_time": 54380.0,
+            "sentence": "真能吃吗",
+            "start_time": 53560.0
+        },
+        {
+            "end_time": 55280.0,
+            "sentence": "我见过那么多副本",
+            "start_time": 54520.0
+        },
+        {
+            "end_time": 56240.0,
+            "sentence": "从没遇见过能吃的",
+            "start_time": 55280.0
+        },
+        {
+            "end_time": 57520.0,
+            "sentence": "可是他吃的好香啊",
+            "start_time": 56240.0
+        },
+        {
+            "end_time": 58480.0,
+            "sentence": "他们将目光投向我",
+            "start_time": 57520.0
+        },
+        {
+            "end_time": 59920.0,
+            "sentence": "在我将手再次伸向辣条的时候",
+            "start_time": 58480.0
+        },
+        {
+            "end_time": 60760.0,
+            "sentence": "他们终于动手了",
+            "start_time": 59920.0
+        },
+        {
+            "end_time": 61000.0,
+            "sentence": "呜",
+            "start_time": 60760.0
+        },
+        {
+            "end_time": 62520.0,
+            "sentence": "这个自热火锅我要吃",
+            "start_time": 61120.0
+        },
+        {
+            "end_time": 63960.0,
+            "sentence": "旺仔牛奶给我给我",
+            "start_time": 62520.0
+        },
+        {
+            "end_time": 64600.0,
+            "sentence": "来桶泡面吧",
+            "start_time": 63960.0
+        },
+        {
+            "end_time": 65760.0,
+            "sentence": "红烧肉味的商店",
+            "start_time": 64600.0
+        },
+        {
+            "end_time": 67200.0,
+            "sentence": "顿时弥漫着垃圾食品的香味",
+            "start_time": 65760.0
+        },
+        {
+            "end_time": 67760.0,
+            "sentence": "可下一刻",
+            "start_time": 67200.0
+        },
+        {
+            "end_time": 68680.0,
+            "sentence": "他们全都吐了出来",
+            "start_time": 67760.0
+        },
+        {
+            "end_time": 69080.0,
+            "sentence": "我靠",
+            "start_time": 68680.0
+        },
+        {
+            "end_time": 70720.0,
+            "sentence": "这泡面怎么头发呦呦",
+            "start_time": 69080.0
+        },
+        {
+            "end_time": 72280.0,
+            "sentence": "这根本 you不是牛奶",
+            "start_time": 70720.0
+        },
+        {
+            "end_time": 73080.0,
+            "sentence": "you 救命",
+            "start_time": 72280.0
+        },
+        {
+            "end_time": 73640.0,
+            "sentence": "快拿开",
+            "start_time": 73080.0
+        },
+        {
+            "end_time": 74880.0,
+            "sentence": "这盒子里是残汁啊",
+            "start_time": 73640.0
+        },
+        {
+            "end_time": 75640.0,
+            "sentence": "还有个眼珠子",
+            "start_time": 74880.0
+        },
+        {
+            "end_time": 76760.0,
+            "sentence": "看着他们面前的一片狼藉",
+            "start_time": 75640.0
+        },
+        {
+            "end_time": 77400.0,
+            "sentence": "我傻眼了",
+            "start_time": 76760.0
+        },
+        {
+            "end_time": 78640.0,
+            "sentence": "可我手里的辣条没变啊",
+            "start_time": 77400.0
+        },
+        {
+            "end_time": 79200.0,
+            "sentence": "香香的",
+            "start_time": 78640.0
+        },
+        {
+            "end_time": 79760.0,
+            "sentence": "油油的",
+            "start_time": 79200.0
+        },
+        {
+            "end_time": 80160.0,
+            "sentence": "辣辣的",
+            "start_time": 79760.0
+        },
+        {
+            "end_time": 81040.0,
+            "sentence": "确实是辣条",
+            "start_time": 80200.0
+        },
+        {
+            "end_time": 82800.0,
+            "sentence": "其他人怀疑你的没问题",
+            "start_time": 81040.0
+        },
+        {
+            "end_time": 83360.0,
+            "sentence": "好心递过去",
+            "start_time": 82840.0
+        },
+        {
+            "end_time": 84040.0,
+            "sentence": "你可以试试",
+            "start_time": 83360.0
+        },
+        {
+            "end_time": 84920.0,
+            "sentence": "结果他们退避三舍",
+            "start_time": 84040.0
+        },
+        {
+            "end_time": 85600.0,
+            "sentence": "妈的奇怪了",
+            "start_time": 84920.0
+        },
+        {
+            "end_time": 86480.0,
+            "sentence": "凭什么他有优待",
+            "start_time": 85600.0
+        },
+        {
+            "end_time": 88280.0,
+            "sentence": "听说这副本对小女孩有 buff 加成",
+            "start_time": 86480.0
+        },
+        {
+            "end_time": 88840.0,
+            "sentence": "真邪门",
+            "start_time": 88280.0
+        },
+        {
+            "end_time": 90280.0,
+            "sentence": "突然有人又打起了我的主意",
+            "start_time": 88840.0
+        },
+        {
+            "end_time": 91360.0,
+            "sentence": "眼睛里泛出森寒的光",
+            "start_time": 90280.0
+        },
+        {
+            "end_time": 92440.0,
+            "sentence": "那我们把他杀了",
+            "start_time": 91360.0
+        },
+        {
+            "end_time": 93760.0,
+            "sentence": "这样他的物资就全是我们的了",
+            "start_time": 92440.0
+        },
+        {
+            "end_time": 95220.0,
+            "sentence": "我腮帮子塞得满满的",
+            "start_time": 93760.0
+        },
+        {
+            "end_time": 97080.0,
+            "sentence": "我妈我眼泪刷一下流出来",
+            "start_time": 95440.0
+        },
+        {
+            "end_time": 98280.0,
+            "sentence": "含糊道不要杀我啊",
+            "start_time": 97080.0
+        },
+        {
+            "end_time": 98960.0,
+            "sentence": "我没爹没妈",
+            "start_time": 98280.0
+        },
+        {
+            "end_time": 99880.0,
+            "sentence": "好不容易吃顿饱饭",
+            "start_time": 98960.0
+        },
+        {
+            "end_time": 100800.0,
+            "sentence": "能不能让我多活一会",
+            "start_time": 99880.0
+        },
+        {
+            "end_time": 101400.0,
+            "sentence": "出门在外",
+            "start_time": 100800.0
+        },
+        {
+            "end_time": 102200.0,
+            "sentence": "窝囊点也正常",
+            "start_time": 101400.0
+        },
+        {
+            "end_time": 103200.0,
+            "sentence": "有个大块头看不下去",
+            "start_time": 102200.0
+        },
+        {
+            "end_time": 104200.0,
+            "sentence": "替我说话算了",
+            "start_time": 103200.0
+        },
+        {
+            "end_time": 105780.0,
+            "sentence": "你们为难他一个小姑娘干什么",
+            "start_time": 104200.0
+        },
+        {
+            "end_time": 107440.0,
+            "sentence": "那些东西给你也不一定能吃多",
+            "start_time": 105840.0
+        },
+        {
+            "end_time": 108360.0,
+            "sentence": "才没来多一个人",
+            "start_time": 107440.0
+        },
+        {
+            "end_time": 109040.0,
+            "sentence": "多一份力量",
+            "start_time": 108360.0
+        },
+        {
+            "end_time": 109360.0,
+            "sentence": "就这样",
+            "start_time": 109040.0
+        },
+        {
+            "end_time": 110160.0,
+            "sentence": "他没杀我",
+            "start_time": 109440.0
+        },
+        {
+            "end_time": 112480.0,
+            "sentence": "而我三天了一步也没走出过商店",
+            "start_time": 110160.0
+        },
+        {
+            "end_time": 113120.0,
+            "sentence": "经过试验",
+            "start_time": 112480.0
+        },
+        {
+            "end_time": 114800.0,
+            "sentence": "只有我亲自烤的烤肠是正常的食物",
+            "start_time": 113120.0
+        },
+        {
+            "end_time": 116000.0,
+            "sentence": "于是我开始摆摊卖烤肠",
+            "start_time": 114800.0
+        },
+        {
+            "end_time": 117000.0,
+            "sentence": "其他人负责我的安全",
+            "start_time": 116000.0
+        },
+        {
+            "end_time": 118160.0,
+            "sentence": "恐怖游戏采取积分制",
+            "start_time": 117000.0
+        },
+        {
+            "end_time": 119400.0,
+            "sentence": "积分越多技能越强",
+            "start_time": 118160.0
+        },
+        {
+            "end_time": 121160.0,
+            "sentence": "达到1万积分就能逃离恐怖游戏",
+            "start_time": 119400.0
+        },
+        {
+            "end_time": 122360.0,
+            "sentence": "其他人靠打诡异赚积分",
+            "start_time": 121160.0
+        },
+        {
+            "end_time": 123560.0,
+            "sentence": "我靠卖香喷喷的烤肠",
+            "start_time": 122360.0
+        },
+        {
+            "end_time": 125000.0,
+            "sentence": "卖一根奖励自己吃一根",
+            "start_time": 123560.0
+        },
+        {
+            "end_time": 125680.0,
+            "sentence": "某天",
+            "start_time": 125000.0
+        },
+        {
+            "end_time": 126480.0,
+            "sentence": "其他人全都外出",
+            "start_time": 125680.0
+        },
+        {
+            "end_time": 127760.0,
+            "sentence": "只留我一个人在商店",
+            "start_time": 126480.0
+        },
+        {
+            "end_time": 128680.0,
+            "sentence": "门突然被人砸开",
+            "start_time": 127760.0
+        },
+        {
+            "end_time": 132400.0,
+            "sentence": "而我挂在门上的喷喷香烤肠两积分一根的牌子也掉在地上碎掉了",
+            "start_time": 128680.0
+        },
+        {
+            "end_time": 133000.0,
+            "sentence": "我怒了",
+            "start_time": 132400.0
+        },
+        {
+            "end_time": 134600.0,
+            "sentence": "可闯进来的人拿着高等级的武器",
+            "start_time": 133000.0
+        },
+        {
+            "end_time": 135400.0,
+            "sentence": "一看就很不好惹",
+            "start_time": 134600.0
+        },
+        {
+            "end_time": 136520.0,
+            "sentence": "我又怂了他们的头",
+            "start_time": 135400.0
+        },
+        {
+            "end_time": 138340.0,
+            "sentence": "兴奋道这里真的这么多物资",
+            "start_time": 136520.0
+        },
+        {
+            "end_time": 138800.0,
+            "sentence": "哈哈",
+            "start_time": 138400.0
+        },
+        {
+            "end_time": 140160.0,
+            "sentence": "他们居然只留一个女的在这里守着",
+            "start_time": 138800.0
+        },
+        {
+            "end_time": 140720.0,
+            "sentence": "上",
+            "start_time": 140360.0
+        },
+        {
+            "end_time": 141200.0,
+            "sentence": "杀了他",
+            "start_time": 140720.0
+        },
+        {
+            "end_time": 141960.0,
+            "sentence": "这里就是我们的了",
+            "start_time": 141200.0
+        },
+        {
+            "end_time": 142780.0,
+            "sentence": "又要杀我",
+            "start_time": 141960.0
+        },
+        {
+            "end_time": 143480.0,
+            "sentence": "我没招了",
+            "start_time": 142880.0
+        },
+        {
+            "end_time": 144840.0,
+            "sentence": "在他的刀即将砍下来时",
+            "start_time": 143480.0
+        },
+        {
+            "end_time": 145760.0,
+            "sentence": "空中突然传来一声叮",
+            "start_time": 144840.0
+        },
+        {
+            "end_time": 146640.0,
+            "sentence": "玩家请注意",
+            "start_time": 145920.0
+        },
+        {
+            "end_time": 147940.0,
+            "sentence": "副本 boss 正在靠近",
+            "start_time": 146640.0
+        },
+        {
+            "end_time": 150180.0,
+            "sentence": "warning boss",
+            "start_time": 148480.0
+        },
+        {
+            "end_time": 151740.0,
+            "sentence": "这游戏还有 boss 吗",
+            "start_time": 150280.0
+        },
+        {
+            "end_time": 152200.0,
+            "sentence": "等等",
+            "start_time": 151760.0
+        },
+        {
+            "end_time": 152920.0,
+            "sentence": "boss 要来了",
+            "start_time": 152200.0
+        },
+        {
+            "end_time": 153560.0,
+            "sentence": "我怎么办",
+            "start_time": 152920.0
+        },
+        {
+            "end_time": 154280.0,
+            "sentence": "我一不能打",
+            "start_time": 153560.0
+        },
+        {
+            "end_time": 155040.0,
+            "sentence": "二不能跑的",
+            "start_time": 154280.0
+        },
+        {
+            "end_time": 157320.0,
+            "sentence": "我仅犹豫了一秒就决定躺平算鸟",
+            "start_time": 155040.0
+        },
+        {
+            "end_time": 157720.0,
+            "sentence": "人嘛",
+            "start_time": 157320.0
+        },
+        {
+            "end_time": 158440.0,
+            "sentence": "都是会死的",
+            "start_time": 157720.0
+        },
+        {
+            "end_time": 159160.0,
+            "sentence": "那伙人慌了",
+            "start_time": 158440.0
+        },
+        {
+            "end_time": 160480.0,
+            "sentence": "不是说 boss在休眠吗",
+            "start_time": 159160.0
+        },
+        {
+            "end_time": 161360.0,
+            "sentence": "为什么醒了",
+            "start_time": 160480.0
+        },
+        {
+            "end_time": 161960.0,
+            "sentence": "我靠",
+            "start_time": 161360.0
+        },
+        {
+            "end_time": 162760.0,
+            "sentence": "咋这么背",
+            "start_time": 161960.0
+        },
+        {
+            "end_time": 164440.0,
+            "sentence": "怎么偏偏这个时候过来头啊",
+            "start_time": 162760.0
+        },
+        {
+            "end_time": 165540.0,
+            "sentence": "你快想想办法",
+            "start_time": 164440.0
+        },
+        {
+            "end_time": 166760.0,
+            "sentence": "我不想死在这里",
+            "start_time": 165680.0
+        },
+        {
+            "end_time": 167660.0,
+            "sentence": "我想回家",
+            "start_time": 166760.0
+        },
+        {
+            "end_time": 168280.0,
+            "sentence": "他们想跑",
+            "start_time": 167680.0
+        },
+        {
+            "end_time": 173000.0,
+            "sentence": "可下一秒一股无形的力量将所有人困在了商店我却觉得这感觉有点熟悉我咬了口烤肠",
+            "start_time": 168280.0
+        },
+        {
+            "end_time": 179720.0,
+            "sentence": "那种感觉更熟悉了我又做了口珍珠奶茶想起来这种后背发凉的感觉跟我妈以前抓到我吃零食是一模一样商店里被阴霾笼罩",
+            "start_time": 173000.0
+        },
+        {
+            "end_time": 185160.0,
+            "sentence": "其他人吓得虚脱瘫在地上我靠着橱柜忽视向我蔓延而来的黑雾死也要做一个饱死鬼哥哎",
+            "start_time": 179720.0
+        },
+        {
+            "end_time": 187280.0,
+            "sentence": "我还真有点想妈妈了我死了就能见到他吗",
+            "start_time": 185160.0
+        },
+        {
+            "end_time": 188160.0,
+            "sentence": "一想到这个可能性",
+            "start_time": 187280.0
+        },
+        {
+            "end_time": 189960.0,
+            "sentence": "我瞬间没那么害怕了食欲大增",
+            "start_time": 188160.0
+        },
+        {
+            "end_time": 194880.0,
+            "sentence": "手摸向桌底藏的巧克力准备让自己甜甜的死去结果空气中突然出来 boss气急败坏的声音顾小宝",
+            "start_time": 189960.0
+        },
+        {
+            "end_time": 196040.0,
+            "sentence": "你又吃这些垃圾食品",
+            "start_time": 194880.0
+        },
+        {
+            "end_time": 196440.0,
+            "sentence": "我擦",
+            "start_time": 196040.0
+        },
+        {
+            "end_time": 197320.0,
+            "sentence": "我妈来了",
+            "start_time": 196520.0
+        },
+        {
+            "end_time": 199480.0,
+            "sentence": "我条件反射般将所有零食藏到身后",
+            "start_time": 197320.0
+        },
+        {
+            "end_time": 200080.0,
+            "sentence": "环视四周",
+            "start_time": 199480.0
+        },
+        {
+            "end_time": 201080.0,
+            "sentence": "只有一片浓浓的黑雾",
+            "start_time": 200080.0
+        },
+        {
+            "end_time": 202840.0,
+            "sentence": "我小心翼翼开口妈妈",
+            "start_time": 201080.0
+        },
+        {
+            "end_time": 204000.0,
+            "sentence": "是你妈妈吗",
+            "start_time": 203200.0
+        },
+        {
+            "end_time": 204800.0,
+            "sentence": "我妈死了",
+            "start_time": 204000.0
+        },
+        {
+            "end_time": 206600.0,
+            "sentence": "难道人死之前真的能有妈妈来接吗",
+            "start_time": 204800.0
+        },
+        {
+            "end_time": 207520.0,
+            "sentence": "那太好了",
+            "start_time": 206600.0
+        },
+        {
+            "end_time": 208720.0,
+            "sentence": "我高兴的飙出眼泪",
+            "start_time": 207520.0
+        },
+        {
+            "end_time": 209720.0,
+            "sentence": "大喊妈咪",
+            "start_time": 208720.0
+        },
+        {
+            "end_time": 210900.0,
+            "sentence": "你终于来接我了",
+            "start_time": 209720.0
+        },
+        {
+            "end_time": 211120.0,
+            "sentence": "妈咪",
+            "start_time": 210920.0
+        },
+        {
+            "end_time": 211360.0,
+            "sentence": "妈咪",
+            "start_time": 211120.0
+        },
+        {
+            "end_time": 212100.0,
+            "sentence": "你在哪",
+            "start_time": 211360.0
+        },
+        {
+            "end_time": 212600.0,
+            "sentence": "我错了",
+            "start_time": 212240.0
+        },
+        {
+            "end_time": 213680.0,
+            "sentence": "我再也不偷吃零食了",
+            "start_time": 212600.0
+        },
+        {
+            "end_time": 213840.0,
+            "sentence": "妈咪",
+            "start_time": 213680.0
+        },
+        {
+            "end_time": 214960.0,
+            "sentence": "你看我长高了好多",
+            "start_time": 213840.0
+        },
+        {
+            "end_time": 215320.0,
+            "sentence": "对了",
+            "start_time": 214960.0
+        },
+        {
+            "end_time": 217040.0,
+            "sentence": "我期末考试还考了第一名呢",
+            "start_time": 215320.0
+        },
+        {
+            "end_time": 217960.0,
+            "sentence": "老师说我很聪明",
+            "start_time": 217040.0
+        },
+        {
+            "end_time": 219520.0,
+            "sentence": "以后肯定能考上重点大学呢",
+            "start_time": 217960.0
+        },
+        {
+            "end_time": 219920.0,
+            "sentence": "妈咪",
+            "start_time": 219520.0
+        },
+        {
+            "end_time": 221280.0,
+            "sentence": "我以后会挣好多好多钱的",
+            "start_time": 219920.0
+        },
+        {
+            "end_time": 222600.0,
+            "sentence": "你就不用出门上班了",
+            "start_time": 221280.0
+        },
+        {
+            "end_time": 223960.0,
+            "sentence": "可我怎么喊也没得到回应",
+            "start_time": 222640.0
+        },
+        {
+            "end_time": 224640.0,
+            "sentence": "黑雾越来越多",
+            "start_time": 223960.0
+        },
+        {
+            "end_time": 225480.0,
+            "sentence": "我渐渐窒息",
+            "start_time": 224640.0
+        },
+        {
+            "end_time": 226240.0,
+            "sentence": "死亡在逼近",
+            "start_time": 225480.0
+        },
+        {
+            "end_time": 227080.0,
+            "sentence": "但是妈妈没有回应",
+            "start_time": 226240.0
+        },
+        {
+            "end_time": 227840.0,
+            "sentence": "我有些难过",
+            "start_time": 227080.0
+        },
+        {
+            "end_time": 228680.0,
+            "sentence": "喃喃道妈咪",
+            "start_time": 227840.0
+        },
+        {
+            "end_time": 229440.0,
+            "sentence": "我好想你啊",
+            "start_time": 228680.0
+        },
+        {
+            "end_time": 230200.0,
+            "sentence": "老天爷坏坏的",
+            "start_time": 229440.0
+        },
+        {
+            "end_time": 231160.0,
+            "sentence": "我是妈捡来的孩子",
+            "start_time": 230200.0
+        },
+        {
+            "end_time": 232480.0,
+            "sentence": "他独自将我抚养长大",
+            "start_time": 231160.0
+        },
+        {
+            "end_time": 233360.0,
+            "sentence": "我刚上初中那年",
+            "start_time": 232520.0
+        },
+        {
+            "end_time": 234600.0,
+            "sentence": "他在下班路上碰到抢劫",
+            "start_time": 233360.0
+        },
+        {
+            "end_time": 235200.0,
+            "sentence": "当场死亡",
+            "start_time": 234600.0
+        },
+        {
+            "end_time": 235960.0,
+            "sentence": "我又成了孤儿",
+            "start_time": 235200.0
+        },
+        {
+            "end_time": 237360.0,
+            "sentence": "而我却在16岁生日这天",
+            "start_time": 235960.0
+        },
+        {
+            "end_time": 238200.0,
+            "sentence": "因为去买小蛋糕",
+            "start_time": 237360.0
+        },
+        {
+            "end_time": 239480.0,
+            "sentence": "被报复社会的人捅了一刀",
+            "start_time": 238200.0
+        },
+        {
+            "end_time": 241000.0,
+            "sentence": "进入恐怖游戏的人都有各种缘由",
+            "start_time": 239480.0
+        },
+        {
+            "end_time": 242720.0,
+            "sentence": "但规则是只要逃离恐怖游戏",
+            "start_time": 241000.0
+        },
+        {
+            "end_time": 244080.0,
+            "sentence": "就能在现实世界活下去",
+            "start_time": 242720.0
+        },
+        {
+            "end_time": 245240.0,
+            "sentence": "活不活的我倒是无所谓",
+            "start_time": 244080.0
+        },
+        {
+            "end_time": 246120.0,
+            "sentence": "我就是有点想我妈",
+            "start_time": 245240.0
+        },
+        {
+            "end_time": 246440.0,
+            "sentence": "突然",
+            "start_time": 246120.0
+        },
+        {
+            "end_time": 248920.0,
+            "sentence": "眼前黑雾中现出一个人形红色碎花连衣裙",
+            "start_time": 246440.0
+        },
+        {
+            "end_time": 249600.0,
+            "sentence": "面容清秀",
+            "start_time": 248920.0
+        },
+        {
+            "end_time": 250240.0,
+            "sentence": "眉眼温柔",
+            "start_time": 249600.0
+        },
+        {
+            "end_time": 251040.0,
+            "sentence": "她站在我面前",
+            "start_time": 250240.0
+        },
+        {
+            "end_time": 251720.0,
+            "sentence": "愣住好一会",
+            "start_time": 251040.0
+        },
+        {
+            "end_time": 253440.0,
+            "sentence": "才轻声说小宝都长这么大了",
+            "start_time": 251720.0
+        },
+        {
+            "end_time": 254260.0,
+            "sentence": "真的是妈妈",
+            "start_time": 253440.0
+        },
+        {
+            "end_time": 255080.0,
+            "sentence": "我直接扑了过去",
+            "start_time": 254360.0
+        },
+        {
+            "end_time": 256680.0,
+            "sentence": "可却没有落入熟悉的温暖怀抱",
+            "start_time": 255080.0
+        },
+        {
+            "end_time": 257440.0,
+            "sentence": "反而难以呼吸",
+            "start_time": 256680.0
+        },
+        {
+            "end_time": 259200.0,
+            "sentence": "我妈连忙退后几步对不起",
+            "start_time": 257440.0
+        },
+        {
+            "end_time": 259640.0,
+            "sentence": "小宝",
+            "start_time": 259200.0
+        },
+        {
+            "end_time": 260160.0,
+            "sentence": "妈妈忘了",
+            "start_time": 259640.0
+        },
+        {
+            "end_time": 261340.0,
+            "sentence": "现在不能用力抱你",
+            "start_time": 260160.0
+        },
+        {
+            "end_time": 262040.0,
+            "sentence": "黑雾是一体",
+            "start_time": 261440.0
+        },
+        {
+            "end_time": 262760.0,
+            "sentence": "他抱的越紧",
+            "start_time": 262040.0
+        },
+        {
+            "end_time": 263720.0,
+            "sentence": "我吸入的黑雾越多",
+            "start_time": 262760.0
+        },
+        {
+            "end_time": 264400.0,
+            "sentence": "窒息感越重",
+            "start_time": 263720.0
+        },
+        {
+            "end_time": 265680.0,
+            "sentence": "我有好多的话想跟妈妈说",
+            "start_time": 264400.0
+        },
+        {
+            "end_time": 266840.0,
+            "sentence": "他扫了眼我周围的零食",
+            "start_time": 265680.0
+        },
+        {
+            "end_time": 267680.0,
+            "sentence": "开始清点数量",
+            "start_time": 266840.0
+        },
+        {
+            "end_time": 268280.0,
+            "sentence": "眉头紧皱",
+            "start_time": 267680.0
+        },
+        {
+            "end_time": 269280.0,
+            "sentence": "5根烤肠签子",
+            "start_time": 268280.0
+        },
+        {
+            "end_time": 269920.0,
+            "sentence": "两瓶牛奶",
+            "start_time": 269280.0
+        },
+        {
+            "end_time": 270840.0,
+            "sentence": "3盒自热火锅",
+            "start_time": 269920.0
+        },
+        {
+            "end_time": 271480.0,
+            "sentence": "3包薯片",
+            "start_time": 270840.0
+        },
+        {
+            "end_time": 271800.0,
+            "sentence": "小宝",
+            "start_time": 271480.0
+        },
+        {
+            "end_time": 272560.0,
+            "sentence": "你吃的太多了",
+            "start_time": 271800.0
+        },
+        {
+            "end_time": 273120.0,
+            "sentence": "我心虚了",
+            "start_time": 272560.0
+        },
+        {
+            "end_time": 273800.0,
+            "sentence": "没办法吗",
+            "start_time": 273200.0
+        },
+        {
+            "end_time": 274080.0,
+            "sentence": "妈咪",
+            "start_time": 273800.0
+        },
+        {
+            "end_time": 274720.0,
+            "sentence": "我饿吗",
+            "start_time": 274120.0
+        },
+        {
+            "end_time": 275800.0,
+            "sentence": "而且你以前都不让我吃",
+            "start_time": 274720.0
+        },
+        {
+            "end_time": 276640.0,
+            "sentence": "我一时没控制住",
+            "start_time": 275800.0
+        },
+        {
+            "end_time": 277920.0,
+            "sentence": "妈妈突然插话吃就吃吧",
+            "start_time": 276640.0
+        },
+        {
+            "end_time": 278980.0,
+            "sentence": "有没有哪里不舒服",
+            "start_time": 277920.0
+        },
+        {
+            "end_time": 279960.0,
+            "sentence": "我身体非常娇气",
+            "start_time": 279040.0
+        },
+        {
+            "end_time": 280720.0,
+            "sentence": "小时候吃的鸡蛋",
+            "start_time": 279960.0
+        },
+        {
+            "end_time": 281320.0,
+            "sentence": "结果吐了",
+            "start_time": 280720.0
+        },
+        {
+            "end_time": 282000.0,
+            "sentence": "一查才发现",
+            "start_time": 281320.0
+        },
+        {
+            "end_time": 282560.0,
+            "sentence": "由于妈妈捡到我",
+            "start_time": 282000.0
+        },
+        {
+            "end_time": 283880.0,
+            "sentence": "以前我只能捡垃圾吃",
+            "start_time": 282560.0
+        },
+        {
+            "end_time": 284760.0,
+            "sentence": "导致肠胃不好",
+            "start_time": 283880.0
+        },
+        {
+            "end_time": 285400.0,
+            "sentence": "从那以后",
+            "start_time": 284760.0
+        },
+        {
+            "end_time": 286680.0,
+            "sentence": "妈妈就严格控制我的饮食",
+            "start_time": 285400.0
+        },
+        {
+            "end_time": 287520.0,
+            "sentence": "讲究科学投喂",
+            "start_time": 286680.0
+        },
+        {
+            "end_time": 288640.0,
+            "sentence": "有次我偷吃了辣条",
+            "start_time": 287520.0
+        },
+        {
+            "end_time": 289360.0,
+            "sentence": "结果上吐下泻",
+            "start_time": 288640.0
+        },
+        {
+            "end_time": 290040.0,
+            "sentence": "还进了医院",
+            "start_time": 289360.0
+        },
+        {
+            "end_time": 291240.0,
+            "sentence": "晚上撞见妈妈偷偷抹眼泪",
+            "start_time": 290040.0
+        },
+        {
+            "end_time": 293180.0,
+            "sentence": "我从此就再也不喊着要吃这些东西了",
+            "start_time": 291240.0
+        },
+        {
+            "end_time": 293680.0,
+            "sentence": "奇怪的是",
+            "start_time": 293200.0
+        },
+        {
+            "end_time": 294920.0,
+            "sentence": "在这里吃了这么多零食",
+            "start_time": 293680.0
+        },
+        {
+            "end_time": 295920.0,
+            "sentence": "我并没有觉得不舒服",
+            "start_time": 294920.0
+        },
+        {
+            "end_time": 297160.0,
+            "sentence": "每天吃了睡了吃",
+            "start_time": 295920.0
+        },
+        {
+            "end_time": 297920.0,
+            "sentence": "单调的像只猪",
+            "start_time": 297160.0
+        },
+        {
+            "end_time": 298800.0,
+            "sentence": "我妈松了口气",
+            "start_time": 297920.0
+        },
+        {
+            "end_time": 299760.0,
+            "sentence": "又告诉我小宝",
+            "start_time": 298800.0
+        },
+        {
+            "end_time": 300840.0,
+            "sentence": "你愿意来找妈妈吗",
+            "start_time": 299760.0
+        },
+        {
+            "end_time": 303280.0,
+            "sentence": "我猛点头我愿意我愿意我愿意",
+            "start_time": 300840.0
+        },
+        {
+            "end_time": 304300.0,
+            "sentence": "妈咪妈咪妈咪",
+            "start_time": 303280.0
+        },
+        {
+            "end_time": 304760.0,
+            "sentence": "妈妈说",
+            "start_time": 304440.0
+        },
+        {
+            "end_time": 305800.0,
+            "sentence": "现在的他只是幻影",
+            "start_time": 304760.0
+        },
+        {
+            "end_time": 306840.0,
+            "sentence": "真正的他在某个地方",
+            "start_time": 305800.0
+        },
+        {
+            "end_time": 307280.0,
+            "sentence": "接下来",
+            "start_time": 306840.0
+        },
+        {
+            "end_time": 308120.0,
+            "sentence": "他告诉我路线",
+            "start_time": 307280.0
+        },
+        {
+            "end_time": 309160.0,
+            "sentence": "还给我带上一个平安符",
+            "start_time": 308120.0
+        },
+        {
+            "end_time": 310280.0,
+            "sentence": "据说可以抵消一次死亡",
+            "start_time": 309160.0
+        },
+        {
+            "end_time": 310640.0,
+            "sentence": "临走前",
+            "start_time": 310280.0
+        },
+        {
+            "end_time": 311240.0,
+            "sentence": "他不放心",
+            "start_time": 310640.0
+        },
+        {
+            "end_time": 312600.0,
+            "sentence": "又凭空刷新出了一大堆吃的",
+            "start_time": 311240.0
+        },
+        {
+            "end_time": 313000.0,
+            "sentence": "小宝",
+            "start_time": 312600.0
+        },
+        {
+            "end_time": 313920.0,
+            "sentence": "记住妈妈跟你说的",
+            "start_time": 313000.0
+        },
+        {
+            "end_time": 314200.0,
+            "sentence": "另外",
+            "start_time": 313920.0
+        },
+        {
+            "end_time": 315040.0,
+            "sentence": "要好好吃饭",
+            "start_time": 314360.0
+        },
+        {
+            "end_time": 315680.0,
+            "sentence": "按时睡觉",
+            "start_time": 315040.0
+        },
+        {
+            "end_time": 316200.0,
+            "sentence": "多喝水",
+            "start_time": 315680.0
+        },
+        {
+            "end_time": 316520.0,
+            "sentence": "还有",
+            "start_time": 316200.0
+        },
+        {
+            "end_time": 317240.0,
+            "sentence": "该怂就怂",
+            "start_time": 316640.0
+        },
+        {
+            "end_time": 318040.0,
+            "sentence": "不过不要担心",
+            "start_time": 317240.0
+        },
+        {
+            "end_time": 318800.0,
+            "sentence": "妈妈会保护你的",
+            "start_time": 318040.0
+        },
+        {
+            "end_time": 319920.0,
+            "sentence": "妈妈的身影越来越模糊",
+            "start_time": 318800.0
+        },
+        {
+            "end_time": 320840.0,
+            "sentence": "声音也越来越小",
+            "start_time": 319920.0
+        },
+        {
+            "end_time": 321280.0,
+            "sentence": "最后",
+            "start_time": 320840.0
+        },
+        {
+            "end_time": 322560.0,
+            "sentence": "黑雾如潮水般褪去",
+            "start_time": 321280.0
+        },
+        {
+            "end_time": 324060.0,
+            "sentence": "看着眼前毫无变化的商店",
+            "start_time": 322560.0
+        },
+        {
+            "end_time": 324560.0,
+            "sentence": "有些恍惚",
+            "start_time": 324080.0
+        },
+        {
+            "end_time": 325880.0,
+            "sentence": "我刚才真的看到妈妈了吗",
+            "start_time": 324560.0
+        },
+        {
+            "end_time": 326360.0,
+            "sentence": "顾小妹",
+            "start_time": 325880.0
+        },
+        {
+            "end_time": 327200.0,
+            "sentence": "你没事吧",
+            "start_time": 326400.0
+        },
+        {
+            "end_time": 328280.0,
+            "sentence": "我的同伴们回来了",
+            "start_time": 327200.0
+        },
+        {
+            "end_time": 328640.0,
+            "sentence": "叫我的人",
+            "start_time": 328280.0
+        },
+        {
+            "end_time": 330560.0,
+            "sentence": "正是几天前为我说话的大块头张哥",
+            "start_time": 328640.0
+        },
+        {
+            "end_time": 331840.0,
+            "sentence": "地上横七竖八躺着尸体",
+            "start_time": 330560.0
+        },
+        {
+            "end_time": 332480.0,
+            "sentence": "血乎乎一片",
+            "start_time": 331840.0
+        },
+        {
+            "end_time": 333600.0,
+            "sentence": "我脚下却干干净净",
+            "start_time": 332480.0
+        },
+        {
+            "end_time": 334560.0,
+            "sentence": "张哥紧张妹妹",
+            "start_time": 333600.0
+        },
+        {
+            "end_time": 335560.0,
+            "sentence": "这些人怎么死的",
+            "start_time": 334560.0
+        },
+        {
+            "end_time": 336820.0,
+            "sentence": "刚才 boss 出现了",
+            "start_time": 335560.0
+        },
+        {
+            "end_time": 338100.0,
+            "sentence": "你你怎么没事",
+            "start_time": 337240.0
+        },
+        {
+            "end_time": 339800.0,
+            "sentence": "其他人的眼神里多了几分防备",
+            "start_time": 338120.0
+        },
+        {
+            "end_time": 341480.0,
+            "sentence": "脖子上的平安符传来热热的感觉",
+            "start_time": 339800.0
+        },
+        {
+            "end_time": 343680.0,
+            "sentence": "我咧开嘴对张哥说妈妈让我去找他",
+            "start_time": 341480.0
+        },
+        {
+            "end_time": 344820.0,
+            "sentence": "你们要陪我一起去吗",
+            "start_time": 343680.0
+        },
+        {
+            "end_time": 345320.0,
+            "sentence": "妈妈说了",
+            "start_time": 344960.0
+        },
+        {
+            "end_time": 346200.0,
+            "sentence": "我一个人不安全",
+            "start_time": 345320.0
+        },
+        {
+            "end_time": 347080.0,
+            "sentence": "得多找些人一起",
+            "start_time": 346200.0
+        },
+        {
+            "end_time": 348240.0,
+            "sentence": "反正除了我给的烤肠外",
+            "start_time": 347080.0
+        },
+        {
+            "end_time": 349560.0,
+            "sentence": "他们根本吃不到正常的东西",
+            "start_time": 348240.0
+        },
+        {
+            "end_time": 351040.0,
+            "sentence": "所以我干脆开出条件跟我走",
+            "start_time": 349560.0
+        },
+        {
+            "end_time": 351560.0,
+            "sentence": "我包吃",
+            "start_time": 351040.0
+        },
+        {
+            "end_time": 352920.0,
+            "sentence": "没人想饿死在恐怖游戏里",
+            "start_time": 351560.0
+        },
+        {
+            "end_time": 354040.0,
+            "sentence": "但听完我提出路线后",
+            "start_time": 352920.0
+        },
+        {
+            "end_time": 355120.0,
+            "sentence": "张哥犹豫了妹妹",
+            "start_time": 354040.0
+        },
+        {
+            "end_time": 357540.0,
+            "sentence": "你说的这条路线全是3S 级诡异",
+            "start_time": 355120.0
+        },
+        {
+            "end_time": 358580.0,
+            "sentence": "很难闯吗",
+            "start_time": 357720.0
+        },
+        {
+            "end_time": 359720.0,
+            "sentence": "怪不得妈妈给我一项技能",
+            "start_time": 358640.0
+        },
+        {
+            "end_time": 361120.0,
+            "sentence": "可以随时随地召唤烤肠机",
+            "start_time": 359720.0
+        },
+        {
+            "end_time": 362320.0,
+            "sentence": "且无限量供应烤肠",
+            "start_time": 361120.0
+        },
+        {
+            "end_time": 363200.0,
+            "sentence": "再撒点辣椒面",
+            "start_time": 362320.0
+        },
+        {
+            "end_time": 363720.0,
+            "sentence": "香的嘞",
+            "start_time": 363200.0
+        },
+        {
+            "end_time": 364760.0,
+            "sentence": "妈妈肯定是怕我饿着",
+            "start_time": 363720.0
+        },
+        {
+            "end_time": 365600.0,
+            "sentence": "张哥斟酌了一下",
+            "start_time": 364760.0
+        },
+        {
+            "end_time": 366480.0,
+            "sentence": "开口顾小妹",
+            "start_time": 365600.0
+        },
+        {
+            "end_time": 367560.0,
+            "sentence": "我知道你很想你妈妈",
+            "start_time": 366480.0
+        },
+        {
+            "end_time": 368920.0,
+            "sentence": "但有没有可能那不是你的妈妈",
+            "start_time": 367560.0
+        },
+        {
+            "end_time": 370560.0,
+            "sentence": "而是诡异伪装成你妈妈来骗你",
+            "start_time": 368920.0
+        },
+        {
+            "end_time": 371360.0,
+            "sentence": "会吗",
+            "start_time": 370560.0
+        },
+        {
+            "end_time": 372380.0,
+            "sentence": "骗我干什么",
+            "start_time": 371440.0
+        },
+        {
+            "end_time": 373360.0,
+            "sentence": "连未成年也骗的话",
+            "start_time": 372400.0
+        },
+        {
+            "end_time": 374240.0,
+            "sentence": "那很不道德了",
+            "start_time": 373360.0
+        },
+        {
+            "end_time": 375600.0,
+            "sentence": "况且我已经下定决心",
+            "start_time": 374240.0
+        },
+        {
+            "end_time": 376360.0,
+            "sentence": "就算是骗子",
+            "start_time": 375600.0
+        },
+        {
+            "end_time": 377040.0,
+            "sentence": "我也要去",
+            "start_time": 376360.0
+        },
+        {
+            "end_time": 378180.0,
+            "sentence": "万一真的是妈妈呢",
+            "start_time": 377040.0
+        },
+        {
+            "end_time": 378960.0,
+            "sentence": "哥犹豫了一下",
+            "start_time": 378360.0
+        },
+        {
+            "end_time": 380520.0,
+            "sentence": "也铿锵有力说道豁出去了",
+            "start_time": 378960.0
+        },
+        {
+            "end_time": 381160.0,
+            "sentence": "我也去",
+            "start_time": 380520.0
+        },
+        {
+            "end_time": 381880.0,
+            "sentence": "我有些惊讶",
+            "start_time": 381160.0
+        },
+        {
+            "end_time": 382840.0,
+            "sentence": "张哥却微微一笑",
+            "start_time": 381880.0
+        },
+        {
+            "end_time": 383640.0,
+            "sentence": "只是眼角带泪",
+            "start_time": 382840.0
+        },
+        {
+            "end_time": 384680.0,
+            "sentence": "附近都是些小诡异",
+            "start_time": 383640.0
+        },
+        {
+            "end_time": 385280.0,
+            "sentence": "积分不高",
+            "start_time": 384680.0
+        },
+        {
+            "end_time": 386160.0,
+            "sentence": "我不能再耗下去了",
+            "start_time": 385280.0
+        },
+        {
+            "end_time": 387080.0,
+            "sentence": "我老婆还在等我回家",
+            "start_time": 386160.0
+        },
+        {
+            "end_time": 387840.0,
+            "sentence": "一提到老婆",
+            "start_time": 387080.0
+        },
+        {
+            "end_time": 390600.0,
+            "sentence": "张哥黑不溜秋的脸上竟然浮现出一种疑似羞涩的情绪",
+            "start_time": 387840.0
+        },
+        {
+            "end_time": 392640.0,
+            "sentence": "文言旁边也有人自告奋勇我也去",
+            "start_time": 390600.0
+        },
+        {
+            "end_time": 393480.0,
+            "sentence": "我孩子还在等我",
+            "start_time": 392640.0
+        },
+        {
+            "end_time": 394300.0,
+            "sentence": "他才6岁",
+            "start_time": 393480.0
+        },
+        {
+            "end_time": 395560.0,
+            "sentence": "我也去这个鬼地方",
+            "start_time": 394400.0
+        },
+        {
+            "end_time": 396240.0,
+            "sentence": "不是人待的",
+            "start_time": 395560.0
+        },
+        {
+            "end_time": 397360.0,
+            "sentence": "我才不要坐以待毙",
+            "start_time": 396240.0
+        },
+        {
+            "end_time": 398120.0,
+            "sentence": "带上我",
+            "start_time": 397360.0
+        },
+        {
+            "end_time": 398920.0,
+            "sentence": "我要跟烤肠妹妹走",
+            "start_time": 398120.0
+        },
+        {
+            "end_time": 399680.0,
+            "sentence": "我不想饿死",
+            "start_time": 398920.0
+        },
+        {
+            "end_time": 400160.0,
+            "sentence": "很快",
+            "start_time": 399680.0
+        },
+        {
+            "end_time": 402640.0,
+            "sentence": "我们一行人浩浩荡荡到了第一个站点跛脚老太太家",
+            "start_time": 400160.0
+        },
+        {
+            "end_time": 403720.0,
+            "sentence": "一座破破烂烂的小木屋",
+            "start_time": 402640.0
+        },
+        {
+            "end_time": 405520.0,
+            "sentence": "一靠近便闻到一股腐烂的味道",
+            "start_time": 403720.0
+        },
+        {
+            "end_time": 406160.0,
+            "sentence": "灰暗的天",
+            "start_time": 405520.0
+        },
+        {
+            "end_time": 406920.0,
+            "sentence": "破败的房屋",
+            "start_time": 406160.0
+        },
+        {
+            "end_time": 407760.0,
+            "sentence": "呼啸而过的风",
+            "start_time": 406920.0
+        },
+        {
+            "end_time": 409200.0,
+            "sentence": "树上乌鸦突然嘎的一声",
+            "start_time": 407760.0
+        },
+        {
+            "end_time": 410320.0,
+            "sentence": "随后抖抖翅膀飞走了",
+            "start_time": 409200.0
+        },
+        {
+            "end_time": 412040.0,
+            "sentence": "其他人将我这个炊事员围在中间",
+            "start_time": 410320.0
+        },
+        {
+            "end_time": 413720.0,
+            "sentence": "个叮嘱道跛脚老太的等级很高",
+            "start_time": 412040.0
+        },
+        {
+            "end_time": 416160.0,
+            "sentence": "据说曾经有支近百人的精装队伍在这全军覆没",
+            "start_time": 413720.0
+        },
+        {
+            "end_time": 416840.0,
+            "sentence": "大家小心",
+            "start_time": 416160.0
+        },
+        {
+            "end_time": 417520.0,
+            "sentence": "话音刚落",
+            "start_time": 416840.0
+        },
+        {
+            "end_time": 418760.0,
+            "sentence": "周围气氛突然变得凝重",
+            "start_time": 417520.0
+        },
+        {
+            "end_time": 419400.0,
+            "sentence": "似冷非冷",
+            "start_time": 418760.0
+        },
+        {
+            "end_time": 420520.0,
+            "sentence": "每个人不自觉抱上手臂",
+            "start_time": 419400.0
+        },
+        {
+            "end_time": 420960.0,
+            "sentence": "我靠",
+            "start_time": 420520.0
+        },
+        {
+            "end_time": 421760.0,
+            "sentence": "怎么这么冷",
+            "start_time": 420960.0
+        },
+        {
+            "end_time": 422740.0,
+            "sentence": "诡异在哪里",
+            "start_time": 421760.0
+        },
+        {
+            "end_time": 423780.0,
+            "sentence": "总得露面吧",
+            "start_time": 422800.0
+        },
+        {
+            "end_time": 424560.0,
+            "sentence": "好瘆人",
+            "start_time": 424000.0
+        },
+        {
+            "end_time": 425520.0,
+            "sentence": "要不还是先回去吧",
+            "start_time": 424560.0
+        },
+        {
+            "end_time": 427240.0,
+            "sentence": "身后摇摇欲坠的破木门砰一声关上",
+            "start_time": 425520.0
+        },
+        {
+            "end_time": 429440.0,
+            "sentence": "屋内传来一道苍老而缓慢的声音好心人",
+            "start_time": 427240.0
+        },
+        {
+            "end_time": 430400.0,
+            "sentence": "能帮我生个火吗",
+            "start_time": 429440.0
+        },
+        {
+            "end_time": 431440.0,
+            "sentence": "跛脚老太出现了",
+            "start_time": 430400.0
+        },
+        {
+            "end_time": 432480.0,
+            "sentence": "他整张脸都耷拉着",
+            "start_time": 431440.0
+        },
+        {
+            "end_time": 433280.0,
+            "sentence": "看不清五官",
+            "start_time": 432480.0
+        },
+        {
+            "end_time": 434320.0,
+            "sentence": "满脸是红到发黑的血",
+            "start_time": 433280.0
+        },
+        {
+            "end_time": 434960.0,
+            "sentence": "我们不敢动",
+            "start_time": 434320.0
+        },
+        {
+            "end_time": 435760.0,
+            "sentence": "他突然生气",
+            "start_time": 434960.0
+        },
+        {
+            "end_time": 436520.0,
+            "sentence": "语调尖锐刺耳",
+            "start_time": 435760.0
+        },
+        {
+            "end_time": 437440.0,
+            "sentence": "连个小忙都不肯帮",
+            "start_time": 436520.0
+        },
+        {
+            "end_time": 438420.0,
+            "sentence": "那你们都去死吧",
+            "start_time": 437440.0
+        },
+        {
+            "end_time": 439240.0,
+            "sentence": "平地起大风",
+            "start_time": 438520.0
+        },
+        {
+            "end_time": 440480.0,
+            "sentence": "跛脚老太健步如飞",
+            "start_time": 439240.0
+        },
+        {
+            "end_time": 441320.0,
+            "sentence": "窜到了人群中",
+            "start_time": 440480.0
+        },
+        {
+            "end_time": 442200.0,
+            "sentence": "身形暴涨几倍",
+            "start_time": 441320.0
+        },
+        {
+            "end_time": 444600.0,
+            "sentence": "玩家们用刀用斧头不断砍向跛脚老太",
+            "start_time": 442200.0
+        },
+        {
+            "end_time": 445280.0,
+            "sentence": "玩家太多",
+            "start_time": 444600.0
+        },
+        {
+            "end_time": 446320.0,
+            "sentence": "竟然一时僵持不下",
+            "start_time": 445280.0
+        },
+        {
+            "end_time": 447680.0,
+            "sentence": "附近的玩家全被吸引过来",
+            "start_time": 446320.0
+        },
+        {
+            "end_time": 449360.0,
+            "sentence": "谁都想分一点跛脚老太的高额积分",
+            "start_time": 447680.0
+        },
+        {
+            "end_time": 450440.0,
+            "sentence": "我缩在安全角落里",
+            "start_time": 449360.0
+        },
+        {
+            "end_time": 451560.0,
+            "sentence": "看着越来越多人扑过去",
+            "start_time": 450440.0
+        },
+        {
+            "end_time": 452160.0,
+            "sentence": "可我发现",
+            "start_time": 451560.0
+        },
+        {
+            "end_time": 453000.0,
+            "sentence": "随着人数增多",
+            "start_time": 452160.0
+        },
+        {
+            "end_time": 454240.0,
+            "sentence": "跛脚老太似乎更厉害了",
+            "start_time": 453000.0
+        },
+        {
+            "end_time": 454880.0,
+            "sentence": "到最后",
+            "start_time": 454240.0
+        },
+        {
+            "end_time": 458100.0,
+            "sentence": "跛脚老太的声音几乎响彻天地你们这群人都该去死",
+            "start_time": 454880.0
+        },
+        {
+            "end_time": 459020.0,
+            "sentence": "给我陪葬吧",
+            "start_time": 458120.0
+        },
+        {
+            "end_time": 459680.0,
+            "sentence": "与此同时",
+            "start_time": 459040.0
+        },
+        {
+            "end_time": 461040.0,
+            "sentence": "玩家的惨叫此起彼伏",
+            "start_time": 459680.0
+        },
+        {
+            "end_time": 461920.0,
+            "sentence": "血染红了地面",
+            "start_time": 461040.0
+        },
+        {
+            "end_time": 462880.0,
+            "sentence": "空气中满是腥味",
+            "start_time": 461920.0
+        },
+        {
+            "end_time": 463600.0,
+            "sentence": "玩家死亡",
+            "start_time": 462880.0
+        },
+        {
+            "end_time": 464840.0,
+            "sentence": "尸体会在一段时间后消失",
+            "start_time": 463600.0
+        },
+        {
+            "end_time": 465480.0,
+            "sentence": "渐渐",
+            "start_time": 464840.0
+        },
+        {
+            "end_time": 466560.0,
+            "sentence": "地上只剩下血痕",
+            "start_time": 465480.0
+        },
+        {
+            "end_time": 466800.0,
+            "sentence": "最后",
+            "start_time": 466560.0
+        },
+        {
+            "end_time": 467960.0,
+            "sentence": "只有几个人护着我撤出去",
+            "start_time": 466800.0
+        },
+        {
+            "end_time": 469240.0,
+            "sentence": "张哥也受了特别重的伤",
+            "start_time": 467960.0
+        },
+        {
+            "end_time": 470120.0,
+            "sentence": "靠在我们的营地里",
+            "start_time": 469240.0
+        },
+        {
+            "end_time": 470880.0,
+            "sentence": "闭上眼流泪",
+            "start_time": 470120.0
+        },
+        {
+            "end_time": 471240.0,
+            "sentence": "老婆",
+            "start_time": 470880.0
+        },
+        {
+            "end_time": 472280.0,
+            "sentence": "我好像回不去了",
+            "start_time": 471240.0
+        },
+        {
+            "end_time": 473280.0,
+            "sentence": "回想起刚才发生的一切",
+            "start_time": 472280.0
+        },
+        {
+            "end_time": 474440.0,
+            "sentence": "我心里浮现出一个猜想",
+            "start_time": 473280.0
+        },
+        {
+            "end_time": 474800.0,
+            "sentence": "半夜",
+            "start_time": 474440.0
+        },
+        {
+            "end_time": 475760.0,
+            "sentence": "我握了握脖梗肩",
+            "start_time": 474800.0
+        },
+        {
+            "end_time": 476680.0,
+            "sentence": "妈妈给我的平安符",
+            "start_time": 475760.0
+        },
+        {
+            "end_time": 477440.0,
+            "sentence": "趁着人们休息",
+            "start_time": 476680.0
+        },
+        {
+            "end_time": 478720.0,
+            "sentence": "偷偷摸进了跛脚老太的家",
+            "start_time": 477440.0
+        },
+        {
+            "end_time": 480120.0,
+            "sentence": "这里的天永远是黄昏模样",
+            "start_time": 478720.0
+        },
+        {
+            "end_time": 481520.0,
+            "sentence": "跛脚老太在井边打水",
+            "start_time": 480120.0
+        },
+        {
+            "end_time": 482440.0,
+            "sentence": "察觉到我的气息",
+            "start_time": 481520.0
+        },
+        {
+            "end_time": 483040.0,
+            "sentence": "身体没动",
+            "start_time": 482440.0
+        },
+        {
+            "end_time": 484040.0,
+            "sentence": "头转了180度",
+            "start_time": 483040.0
+        },
+        {
+            "end_time": 485280.0,
+            "sentence": "冲我僵硬一笑年轻人",
+            "start_time": 484040.0
+        },
+        {
+            "end_time": 486620.0,
+            "sentence": "你能帮我把水提进屋吗",
+            "start_time": 485280.0
+        },
+        {
+            "end_time": 487120.0,
+            "sentence": "我想洗澡",
+            "start_time": 486680.0
+        },
+        {
+            "end_time": 487920.0,
+            "sentence": "我慢慢靠近",
+            "start_time": 487120.0
+        },
+        {
+            "end_time": 489560.0,
+            "sentence": "老太的嘴角勾成诡异的弧度",
+            "start_time": 487920.0
+        },
+        {
+            "end_time": 491000.0,
+            "sentence": "他提着水桶慢慢向我挪过来",
+            "start_time": 489560.0
+        },
+        {
+            "end_time": 491920.0,
+            "sentence": "却不小心绊了一脚",
+            "start_time": 491000.0
+        },
+        {
+            "end_time": 492800.0,
+            "sentence": "眼看着他要摔倒",
+            "start_time": 491920.0
+        },
+        {
+            "end_time": 493800.0,
+            "sentence": "我赶紧上前扶住他",
+            "start_time": 492800.0
+        },
+        {
+            "end_time": 494560.0,
+            "sentence": "又稳住水桶",
+            "start_time": 493800.0
+        },
+        {
+            "end_time": 495960.0,
+            "sentence": "还好只洒了一点点出来",
+            "start_time": 494560.0
+        },
+        {
+            "end_time": 497320.0,
+            "sentence": "老太枯木般的手突然抓住我",
+            "start_time": 495960.0
+        },
+        {
+            "end_time": 498120.0,
+            "sentence": "冲我森然一笑",
+            "start_time": 497320.0
+        },
+        {
+            "end_time": 499360.0,
+            "sentence": "眼睛和嘴巴变成黑窟窿",
+            "start_time": 498120.0
+        },
+        {
+            "end_time": 500040.0,
+            "sentence": "往外渗血",
+            "start_time": 499360.0
+        },
+        {
+            "end_time": 501880.0,
+            "sentence": "换成别人应该一斧子就劈上去了",
+            "start_time": 500040.0
+        },
+        {
+            "end_time": 502720.0,
+            "sentence": "但我没有",
+            "start_time": 501880.0
+        },
+        {
+            "end_time": 503840.0,
+            "sentence": "我哇的一声哭出来",
+            "start_time": 502720.0
+        },
+        {
+            "end_time": 505300.0,
+            "sentence": "求求你不要杀我",
+            "start_time": 503840.0
+        },
+        {
+            "end_time": 506460.0,
+            "sentence": "我是来找妈妈的",
+            "start_time": 505440.0
+        },
+        {
+            "end_time": 506880.0,
+            "sentence": "奶奶",
+            "start_time": 506480.0
+        },
+        {
+            "end_time": 508320.0,
+            "sentence": "你有没有看见我妈妈",
+            "start_time": 506880.0
+        },
+        {
+            "end_time": 509640.0,
+            "sentence": "呜呜呜没办法",
+            "start_time": 508320.0
+        },
+        {
+            "end_time": 511200.0,
+            "sentence": "我妈说的在这的窝囊点",
+            "start_time": 509640.0
+        },
+        {
+            "end_time": 512120.0,
+            "sentence": "跛脚老太愣住了",
+            "start_time": 511200.0
+        },
+        {
+            "end_time": 513160.0,
+            "sentence": "我一开始是假哭",
+            "start_time": 512120.0
+        },
+        {
+            "end_time": 514200.0,
+            "sentence": "哭着哭着就收不住了",
+            "start_time": 513160.0
+        },
+        {
+            "end_time": 514960.0,
+            "sentence": "甚至打了个嗝",
+            "start_time": 514200.0
+        },
+        {
+            "end_time": 516360.0,
+            "sentence": "跛脚老太脸上的血慢慢消失",
+            "start_time": 514960.0
+        },
+        {
+            "end_time": 517440.0,
+            "sentence": "五官也渐渐清晰",
+            "start_time": 516360.0
+        },
+        {
+            "end_time": 518620.0,
+            "sentence": "变得和正常老人无异",
+            "start_time": 517440.0
+        },
+        {
+            "end_time": 519080.0,
+            "sentence": "小姑娘",
+            "start_time": 518840.0
+        },
+        {
+            "end_time": 519680.0,
+            "sentence": "你别哭",
+            "start_time": 519080.0
+        },
+        {
+            "end_time": 520240.0,
+            "sentence": "告诉奶奶",
+            "start_time": 519680.0
+        },
+        {
+            "end_time": 521200.0,
+            "sentence": "你找不到妈妈吗",
+            "start_time": 520240.0
+        },
+        {
+            "end_time": 523000.0,
+            "sentence": "跛脚老太看了一眼我脖间的平安符",
+            "start_time": 521200.0
+        },
+        {
+            "end_time": 524120.0,
+            "sentence": "此处她正微微发红",
+            "start_time": 523000.0
+        },
+        {
+            "end_time": 526560.0,
+            "sentence": "跛脚老太慢吞吞的说请你帮我把水提到屋里",
+            "start_time": 524120.0
+        },
+        {
+            "end_time": 527120.0,
+            "sentence": "她松了手",
+            "start_time": 526560.0
+        },
+        {
+            "end_time": 528360.0,
+            "sentence": "我手臂上留下了几个淤青",
+            "start_time": 527120.0
+        },
+        {
+            "end_time": 529800.0,
+            "sentence": "我一边抽气一边照做",
+            "start_time": 528360.0
+        },
+        {
+            "end_time": 531080.0,
+            "sentence": "屋子里的腐烂气息更严重",
+            "start_time": 529800.0
+        },
+        {
+            "end_time": 532300.0,
+            "sentence": "跛脚老太点上油灯",
+            "start_time": 531080.0
+        },
+        {
+            "end_time": 533520.0,
+            "sentence": "继续说请你帮我生火",
+            "start_time": 532320.0
+        },
+        {
+            "end_time": 534240.0,
+            "sentence": "我要热水洗澡",
+            "start_time": 533520.0
+        },
+        {
+            "end_time": 534760.0,
+            "sentence": "一晚上",
+            "start_time": 534240.0
+        },
+        {
+            "end_time": 535640.0,
+            "sentence": "他让我做这个做那个",
+            "start_time": 534760.0
+        },
+        {
+            "end_time": 536360.0,
+            "sentence": "又要洗澡",
+            "start_time": 535640.0
+        },
+        {
+            "end_time": 537760.0,
+            "sentence": "又要我去柜子里拿衣服给他换上",
+            "start_time": 536360.0
+        },
+        {
+            "end_time": 539760.0,
+            "sentence": "跛脚老太身上的破布不知道穿了多久",
+            "start_time": 537760.0
+        },
+        {
+            "end_time": 541040.0,
+            "sentence": "脱下来后身上全是腐肉",
+            "start_time": 539760.0
+        },
+        {
+            "end_time": 542880.0,
+            "sentence": "我沉默着替他换上新衣服",
+            "start_time": 541040.0
+        },
+        {
+            "end_time": 544560.0,
+            "sentence": "最后他躺在床上静静望着窗外",
+            "start_time": 542880.0
+        },
+        {
+            "end_time": 546440.0,
+            "sentence": "闭上眼问我我的孩子回来了吗",
+            "start_time": 544560.0
+        },
+        {
+            "end_time": 548200.0,
+            "sentence": "我鬼使神差班回了一句已经回来了",
+            "start_time": 546440.0
+        },
+        {
+            "end_time": 548840.0,
+            "sentence": "你见过了",
+            "start_time": 548200.0
+        },
+        {
+            "end_time": 550280.0,
+            "sentence": "他沉默良久好好",
+            "start_time": 548840.0
+        },
+        {
+            "end_time": 550880.0,
+            "sentence": "回来就好",
+            "start_time": 550280.0
+        },
+        {
+            "end_time": 551240.0,
+            "sentence": "小妹妹",
+            "start_time": 550880.0
+        },
+        {
+            "end_time": 552040.0,
+            "sentence": "你快去找妈妈吧",
+            "start_time": 551240.0
+        },
+        {
+            "end_time": 553400.0,
+            "sentence": "我的孩子也需要妈妈了",
+            "start_time": 552040.0
+        },
+        {
+            "end_time": 554080.0,
+            "sentence": "话音刚落",
+            "start_time": 553400.0
+        },
+        {
+            "end_time": 555120.0,
+            "sentence": "跛脚老太闭上了眼",
+            "start_time": 554080.0
+        },
+        {
+            "end_time": 556800.0,
+            "sentence": "往日狰狞的面孔突然变得平静",
+            "start_time": 555120.0
+        },
+        {
+            "end_time": 558480.0,
+            "sentence": "就像世界上每一个普普通通的老太太",
+            "start_time": 556800.0
+        },
+        {
+            "end_time": 559440.0,
+            "sentence": "空气中传来一声叮",
+            "start_time": 558480.0
+        },
+        {
+            "end_time": 560720.0,
+            "sentence": "恭喜玩家击败跛脚老太",
+            "start_time": 559440.0
+        },
+        {
+            "end_time": 561560.0,
+            "sentence": "回得3,000积分",
+            "start_time": 560720.0
+        },
+        {
+            "end_time": 562280.0,
+            "sentence": "天光乍现",
+            "start_time": 561560.0
+        },
+        {
+            "end_time": 563000.0,
+            "sentence": "破屋消失",
+            "start_time": 562280.0
+        },
+        {
+            "end_time": 564040.0,
+            "sentence": "此处已无跛脚老太",
+            "start_time": 563000.0
+        },
+        {
+            "end_time": 565080.0,
+            "sentence": "我又偷偷回了营地",
+            "start_time": 564040.0
+        },
+        {
+            "end_time": 566080.0,
+            "sentence": "幸好其他人还没醒",
+            "start_time": 565080.0
+        },
+        {
+            "end_time": 566920.0,
+            "sentence": "只有张哥注意到",
+            "start_time": 566080.0
+        },
+        {
+            "end_time": 568120.0,
+            "sentence": "悄悄问我你去哪了",
+            "start_time": 566920.0
+        },
+        {
+            "end_time": 568920.0,
+            "sentence": "我支支吾吾",
+            "start_time": 568120.0
+        },
+        {
+            "end_time": 570360.0,
+            "sentence": "张哥却松了口气不用说了",
+            "start_time": 568920.0
+        },
+        {
+            "end_time": 570840.0,
+            "sentence": "顾小妹",
+            "start_time": 570360.0
+        },
+        {
+            "end_time": 572160.0,
+            "sentence": "你身上有跛脚老太的味道",
+            "start_time": 570840.0
+        },
+        {
+            "end_time": 572680.0,
+            "sentence": "你完好无损",
+            "start_time": 572160.0
+        },
+        {
+            "end_time": 574100.0,
+            "sentence": "出来是不是已经杀了他",
+            "start_time": 572680.0
+        },
+        {
+            "end_time": 575000.0,
+            "sentence": "杀了吗",
+            "start_time": 574200.0
+        },
+        {
+            "end_time": 576240.0,
+            "sentence": "我只是帮他完成了遗愿而已",
+            "start_time": 575080.0
+        },
+        {
+            "end_time": 576640.0,
+            "sentence": "记住",
+            "start_time": 576240.0
+        },
+        {
+            "end_time": 578760.0,
+            "sentence": "别让其他任何人知道是你拿了伯爵老太的积分",
+            "start_time": 576640.0
+        },
+        {
+            "end_time": 580360.0,
+            "sentence": "张哥神色严肃不要低估人的恶",
+            "start_time": 578760.0
+        },
+        {
+            "end_time": 582120.0,
+            "sentence": "要是知道蓝宝他们不会来杀我",
+            "start_time": 580360.0
+        },
+        {
+            "end_time": 584200.0,
+            "sentence": "等其他人反应过来伯爵老太已经消失的时候",
+            "start_time": 582120.0
+        },
+        {
+            "end_time": 585860.0,
+            "sentence": "纷纷诧异那老妖婆死了",
+            "start_time": 584200.0
+        },
+        {
+            "end_time": 586560.0,
+            "sentence": "谁杀的",
+            "start_time": 585920.0
+        },
+        {
+            "end_time": 586960.0,
+            "sentence": "卧槽",
+            "start_time": 586560.0
+        },
+        {
+            "end_time": 588120.0,
+            "sentence": "我们这个本初大佬了",
+            "start_time": 586960.0
+        },
+        {
+            "end_time": 588760.0,
+            "sentence": "大佬在哪",
+            "start_time": 588120.0
+        },
+        {
+            "end_time": 589480.0,
+            "sentence": "求带啊",
+            "start_time": 588760.0
+        },
+        {
+            "end_time": 590560.0,
+            "sentence": "可惜没蹭到积分",
+            "start_time": 589480.0
+        },
+        {
+            "end_time": 592580.0,
+            "sentence": "但是打通这里就可以继续往前走了",
+            "start_time": 590560.0
+        },
+        {
+            "end_time": 594040.0,
+            "sentence": "听说里面的诡异积分更高",
+            "start_time": 592600.0
+        },
+        {
+            "end_time": 594880.0,
+            "sentence": "有玩家死去",
+            "start_time": 594040.0
+        },
+        {
+            "end_time": 595960.0,
+            "sentence": "就有新的玩家不断加入",
+            "start_time": 594880.0
+        },
+        {
+            "end_time": 597720.0,
+            "sentence": "我们一大群人又到了第二个站点",
+            "start_time": 595960.0
+        },
+        {
+            "end_time": 598760.0,
+            "sentence": "教室里的白衣少女",
+            "start_time": 597720.0
+        },
+        {
+            "end_time": 599720.0,
+            "sentence": "相比跛脚老太的家",
+            "start_time": 598760.0
+        },
+        {
+            "end_time": 600480.0,
+            "sentence": "这里明亮多了",
+            "start_time": 599720.0
+        },
+        {
+            "end_time": 601840.0,
+            "sentence": "教室宽敞却没有桌椅",
+            "start_time": 600480.0
+        },
+        {
+            "end_time": 602840.0,
+            "sentence": "只有一张很大的床",
+            "start_time": 601840.0
+        },
+        {
+            "end_time": 604360.0,
+            "sentence": "墙上还挂着好多奇怪的东西",
+            "start_time": 602840.0
+        },
+        {
+            "end_time": 604720.0,
+            "sentence": "鞭子",
+            "start_time": 604360.0
+        },
+        {
+            "end_time": 605160.0,
+            "sentence": "手铐",
+            "start_time": 604720.0
+        },
+        {
+            "end_time": 607080.0,
+            "sentence": "项圈张哥将手挡在我眼前",
+            "start_time": 605160.0
+        },
+        {
+            "end_time": 608240.0,
+            "sentence": "小孩子别怕",
+            "start_time": 607080.0
+        },
+        {
+            "end_time": 608600.0,
+            "sentence": "那好",
+            "start_time": 608240.0
+        },
+        {
+            "end_time": 609280.0,
+            "sentence": "我自己闭",
+            "start_time": 608600.0
+        },
+        {
+            "end_time": 610160.0,
+            "sentence": "空气中传来香味",
+            "start_time": 609280.0
+        },
+        {
+            "end_time": 612360.0,
+            "sentence": "紧接着一道柔媚至极的声音响彻教室",
+            "start_time": 610160.0
+        },
+        {
+            "end_time": 613820.0,
+            "sentence": "今晚你们谁来陪我呢",
+            "start_time": 612360.0
+        },
+        {
+            "end_time": 614600.0,
+            "sentence": "周围传来异动",
+            "start_time": 613920.0
+        },
+        {
+            "end_time": 614880.0,
+            "sentence": "卧槽",
+            "start_time": 614600.0
+        },
+        {
+            "end_time": 615640.0,
+            "sentence": "这么骚的诡异",
+            "start_time": 614880.0
+        },
+        {
+            "end_time": 616320.0,
+            "sentence": "真漂亮啊",
+            "start_time": 615640.0
+        },
+        {
+            "end_time": 617680.0,
+            "sentence": "那皮肤嫩的好像能掐出水",
+            "start_time": 616320.0
+        },
+        {
+            "end_time": 618720.0,
+            "sentence": "学生妹就是不一样",
+            "start_time": 617680.0
+        },
+        {
+            "end_time": 619680.0,
+            "sentence": "我眼睛睁开一条缝",
+            "start_time": 618720.0
+        },
+        {
+            "end_time": 620280.0,
+            "sentence": "不远处",
+            "start_time": 619680.0
+        },
+        {
+            "end_time": 622360.0,
+            "sentence": "一个身穿白裙的女学生正侧躺在床上",
+            "start_time": 620280.0
+        },
+        {
+            "end_time": 623040.0,
+            "sentence": "身段妖娆",
+            "start_time": 622360.0
+        },
+        {
+            "end_time": 623680.0,
+            "sentence": "笑容妩媚",
+            "start_time": 623040.0
+        },
+        {
+            "end_time": 624840.0,
+            "sentence": "空气中的香味越来越浓",
+            "start_time": 623680.0
+        },
+        {
+            "end_time": 625880.0,
+            "sentence": "有几个人突然失神",
+            "start_time": 624840.0
+        },
+        {
+            "end_time": 626640.0,
+            "sentence": "瞳孔放大",
+            "start_time": 625880.0
+        },
+        {
+            "end_time": 627920.0,
+            "sentence": "脚步慢慢向女学生移去",
+            "start_time": 626640.0
+        },
+        {
+            "end_time": 629440.0,
+            "sentence": "她们的脸上挂着不怀好意的笑",
+            "start_time": 627920.0
+        },
+        {
+            "end_time": 630520.0,
+            "sentence": "让人看了很不舒服",
+            "start_time": 629440.0
+        },
+        {
+            "end_time": 631640.0,
+            "sentence": "张哥突然喊了声不好",
+            "start_time": 630520.0
+        },
+        {
+            "end_time": 632320.0,
+            "sentence": "快撤",
+            "start_time": 631640.0
+        },
+        {
+            "end_time": 633320.0,
+            "sentence": "有玩家去拉了几个人",
+            "start_time": 632320.0
+        },
+        {
+            "end_time": 634200.0,
+            "sentence": "可他们却像疯了一样",
+            "start_time": 633320.0
+        },
+        {
+            "end_time": 634880.0,
+            "sentence": "眼睛血红",
+            "start_time": 634200.0
+        },
+        {
+            "end_time": 636040.0,
+            "sentence": "开始用刀砍向彼此",
+            "start_time": 634880.0
+        },
+        {
+            "end_time": 636800.0,
+            "sentence": "自相残杀",
+            "start_time": 636040.0
+        },
+        {
+            "end_time": 637440.0,
+            "sentence": "血肉飞溅",
+            "start_time": 636800.0
+        },
+        {
+            "end_time": 638760.0,
+            "sentence": "我们其他的人赶紧退出来",
+            "start_time": 637440.0
+        },
+        {
+            "end_time": 639400.0,
+            "sentence": "回到营地",
+            "start_time": 638760.0
+        },
+        {
+            "end_time": 641320.0,
+            "sentence": "刚才那副血腥的模样仍在脑中挥之不去",
+            "start_time": 639400.0
+        },
+        {
+            "end_time": 643240.0,
+            "sentence": "我们耳边时不时传来声音谁来陪我",
+            "start_time": 641320.0
+        },
+        {
+            "end_time": 644360.0,
+            "sentence": "我花样可多呢",
+            "start_time": 643240.0
+        },
+        {
+            "end_time": 645180.0,
+            "sentence": "谁想试试",
+            "start_time": 644360.0
+        },
+        {
+            "end_time": 646040.0,
+            "sentence": "我今年才20",
+            "start_time": 645280.0
+        },
+        {
+            "end_time": 646600.0,
+            "sentence": "干净的呢",
+            "start_time": 646040.0
+        },
+        {
+            "end_time": 647160.0,
+            "sentence": "不听不听",
+            "start_time": 646600.0
+        },
+        {
+            "end_time": 647800.0,
+            "sentence": "王八念经",
+            "start_time": 647160.0
+        },
+        {
+            "end_time": 648440.0,
+            "sentence": "我捂住耳朵",
+            "start_time": 647800.0
+        },
+        {
+            "end_time": 649280.0,
+            "sentence": "张哥叹了口气",
+            "start_time": 648440.0
+        },
+        {
+            "end_time": 650920.0,
+            "sentence": "对众人说怪不得他是3S 级",
+            "start_time": 649280.0
+        },
+        {
+            "end_time": 651880.0,
+            "sentence": "他能迷惑人的心智",
+            "start_time": 650920.0
+        },
+        {
+            "end_time": 652920.0,
+            "sentence": "让玩家自相残杀",
+            "start_time": 651880.0
+        },
+        {
+            "end_time": 655080.0,
+            "sentence": "他语气凝重今晚谁都不可以擅自行动",
+            "start_time": 652920.0
+        },
+        {
+            "end_time": 655880.0,
+            "sentence": "不能被他迷惑",
+            "start_time": 655080.0
+        },
+        {
+            "end_time": 656680.0,
+            "sentence": "张哥块头大人",
+            "start_time": 655880.0
+        },
+        {
+            "end_time": 657280.0,
+            "sentence": "又有主意",
+            "start_time": 656680.0
+        },
+        {
+            "end_time": 658160.0,
+            "sentence": "点燃成我们的头",
+            "start_time": 657280.0
+        },
+        {
+            "end_time": 658880.0,
+            "sentence": "我听他的话",
+            "start_time": 658160.0
+        },
+        {
+            "end_time": 659640.0,
+            "sentence": "可是到了大半夜",
+            "start_time": 658880.0
+        },
+        {
+            "end_time": 660280.0,
+            "sentence": "我被吵醒",
+            "start_time": 659640.0
+        },
+        {
+            "end_time": 662200.0,
+            "sentence": "有个满身是血的人跌跌撞撞回到营地",
+            "start_time": 660280.0
+        },
+        {
+            "end_time": 663600.0,
+            "sentence": "好好东西吃",
+            "start_time": 662200.0
+        },
+        {
+            "end_time": 664880.0,
+            "sentence": "尸体窟窿没了",
+            "start_time": 663600.0
+        },
+        {
+            "end_time": 665600.0,
+            "sentence": "他神志不清",
+            "start_time": 664880.0
+        },
+        {
+            "end_time": 667320.0,
+            "sentence": "却指着教室的方向救救他们",
+            "start_time": 665600.0
+        },
+        {
+            "end_time": 668440.0,
+            "sentence": "张哥还是决定去看看",
+            "start_time": 667320.0
+        },
+        {
+            "end_time": 669520.0,
+            "sentence": "我自告奋勇也要去",
+            "start_time": 668440.0
+        },
+        {
+            "end_time": 671200.0,
+            "sentence": "张哥知道我身上有跛脚老太的积分",
+            "start_time": 669520.0
+        },
+        {
+            "end_time": 672320.0,
+            "sentence": "觉得我或许有某些技能",
+            "start_time": 671200.0
+        },
+        {
+            "end_time": 673000.0,
+            "sentence": "便同意我去",
+            "start_time": 672320.0
+        },
+        {
+            "end_time": 673880.0,
+            "sentence": "还没踏进教室",
+            "start_time": 673000.0
+        },
+        {
+            "end_time": 674880.0,
+            "sentence": "血腥味就蒙到我想吐",
+            "start_time": 673880.0
+        },
+        {
+            "end_time": 675520.0,
+            "sentence": "我没进去",
+            "start_time": 674880.0
+        },
+        {
+            "end_time": 677520.0,
+            "sentence": "在屋外偷偷看了一眼白衣少女不在里面",
+            "start_time": 675520.0
+        },
+        {
+            "end_time": 679200.0,
+            "sentence": "地上横七竖八是好几个男人的尸体",
+            "start_time": 677520.0
+        },
+        {
+            "end_time": 680480.0,
+            "sentence": "只是全都赤裸裸的",
+            "start_time": 679200.0
+        },
+        {
+            "end_time": 681640.0,
+            "sentence": "而且被掏空了内脏",
+            "start_time": 680480.0
+        },
+        {
+            "end_time": 683320.0,
+            "sentence": "腹部只有一个空荡荡血乎乎的黑洞",
+            "start_time": 681640.0
+        },
+        {
+            "end_time": 684000.0,
+            "sentence": "肠子流了一地",
+            "start_time": 683320.0
+        },
+        {
+            "end_time": 685040.0,
+            "sentence": "我没忍住吐了",
+            "start_time": 684000.0
+        },
+        {
+            "end_time": 685760.0,
+            "sentence": "张哥也想吐",
+            "start_time": 685040.0
+        },
+        {
+            "end_time": 686440.0,
+            "sentence": "但看我吐",
+            "start_time": 685760.0
+        },
+        {
+            "end_time": 688080.0,
+            "sentence": "默默做拍背早知道不让你来了",
+            "start_time": 686440.0
+        },
+        {
+            "end_time": 689000.0,
+            "sentence": "you 我没事",
+            "start_time": 688080.0
+        },
+        {
+            "end_time": 690000.0,
+            "sentence": "you 他们为什么还要来",
+            "start_time": 689000.0
+        },
+        {
+            "end_time": 692140.0,
+            "sentence": "you 不是说you不许单独行动吗",
+            "start_time": 690000.0
+        },
+        {
+            "end_time": 693000.0,
+            "sentence": "好不容易吐完",
+            "start_time": 692280.0
+        },
+        {
+            "end_time": 694720.0,
+            "sentence": "我想不通为什么这些人会来",
+            "start_time": 693000.0
+        },
+        {
+            "end_time": 696520.0,
+            "sentence": "有几个甚至是白日里见过的熟面孔",
+            "start_time": 694720.0
+        },
+        {
+            "end_time": 697840.0,
+            "sentence": "张哥叹息男人嘛",
+            "start_time": 696520.0
+        },
+        {
+            "end_time": 698880.0,
+            "sentence": "色字头上一把刀",
+            "start_time": 697840.0
+        },
+        {
+            "end_time": 699520.0,
+            "sentence": "死了活该",
+            "start_time": 698880.0
+        },
+        {
+            "end_time": 700440.0,
+            "sentence": "里面的人肯定没得救了",
+            "start_time": 699520.0
+        },
+        {
+            "end_time": 701520.0,
+            "sentence": "我们准备悄悄撤退",
+            "start_time": 700440.0
+        },
+        {
+            "end_time": 703280.0,
+            "sentence": "然而我们的脚却像灌了铅一样沉重",
+            "start_time": 701520.0
+        },
+        {
+            "end_time": 703960.0,
+            "sentence": "动弹不得",
+            "start_time": 703280.0
+        },
+        {
+            "end_time": 705400.0,
+            "sentence": "耳边突然有人轻轻吹过一阵风",
+            "start_time": 703960.0
+        },
+        {
+            "end_time": 706360.0,
+            "sentence": "那股香气又来了",
+            "start_time": 705400.0
+        },
+        {
+            "end_time": 706960.0,
+            "sentence": "眨眼间",
+            "start_time": 706360.0
+        },
+        {
+            "end_time": 707960.0,
+            "sentence": "白衣少女凭空出现",
+            "start_time": 706960.0
+        },
+        {
+            "end_time": 708640.0,
+            "sentence": "衣衫半退",
+            "start_time": 707960.0
+        },
+        {
+            "end_time": 709720.0,
+            "sentence": "冲张哥笑你来了",
+            "start_time": 708640.0
+        },
+        {
+            "end_time": 710440.0,
+            "sentence": "张哥愣了一瞬",
+            "start_time": 709720.0
+        },
+        {
+            "end_time": 711120.0,
+            "sentence": "我暗道不好",
+            "start_time": 710440.0
+        },
+        {
+            "end_time": 712300.0,
+            "sentence": "张哥可别被迷惑啊",
+            "start_time": 711120.0
+        },
+        {
+            "end_time": 713080.0,
+            "sentence": "我想提醒他",
+            "start_time": 712360.0
+        },
+        {
+            "end_time": 713840.0,
+            "sentence": "却发不出声音",
+            "start_time": 713080.0
+        },
+        {
+            "end_time": 714640.0,
+            "sentence": "也动弹不得",
+            "start_time": 713840.0
+        },
+        {
+            "end_time": 715880.0,
+            "sentence": "眼睁睁看着张哥伸出手",
+            "start_time": 714640.0
+        },
+        {
+            "end_time": 717640.0,
+            "sentence": "而白衣少女嘴角勾的弧度也越来越大",
+            "start_time": 715880.0
+        },
+        {
+            "end_time": 718720.0,
+            "sentence": "几乎弯成了 v 字形",
+            "start_time": 717640.0
+        },
+        {
+            "end_time": 719760.0,
+            "sentence": "末端拉长到眼角",
+            "start_time": 718720.0
+        },
+        {
+            "end_time": 721160.0,
+            "sentence": "他的瞳孔也慢慢变成红色",
+            "start_time": 719760.0
+        },
+        {
+            "end_time": 722720.0,
+            "sentence": "白衣少女将手伸向张哥的左胸",
+            "start_time": 721160.0
+        },
+        {
+            "end_time": 723320.0,
+            "sentence": "完蛋了",
+            "start_time": 722720.0
+        },
+        {
+            "end_time": 724500.0,
+            "sentence": "张哥也要被掏心了吗",
+            "start_time": 723320.0
+        },
+        {
+            "end_time": 725280.0,
+            "sentence": "我急得快哭了",
+            "start_time": 724600.0
+        },
+        {
+            "end_time": 726000.0,
+            "sentence": "然而下一秒",
+            "start_time": 725280.0
+        },
+        {
+            "end_time": 727160.0,
+            "sentence": "白衣少女的动作顿住了",
+            "start_time": 726000.0
+        },
+        {
+            "end_time": 727800.0,
+            "sentence": "与此同时",
+            "start_time": 727160.0
+        },
+        {
+            "end_time": 729240.0,
+            "sentence": "张哥麻溜把自己的外套脱下来",
+            "start_time": 727800.0
+        },
+        {
+            "end_time": 730400.0,
+            "sentence": "披在了白衣少女身上",
+            "start_time": 729240.0
+        },
+        {
+            "end_time": 731160.0,
+            "sentence": "受不了你们这些小姑娘",
+            "start_time": 730400.0
+        },
+        {
+            "end_time": 731680.0,
+            "sentence": "穿这么少",
+            "start_time": 731160.0
+        },
+        {
+            "end_time": 732240.0,
+            "sentence": "这什么天啊",
+            "start_time": 731680.0
+        },
+        {
+            "end_time": 733040.0,
+            "sentence": "不得冻死",
+            "start_time": 732240.0
+        },
+        {
+            "end_time": 734320.0,
+            "sentence": "老婆也喜欢穿白裙子",
+            "start_time": 733040.0
+        },
+        {
+            "end_time": 735480.0,
+            "sentence": "也跟你似的露大肩膀",
+            "start_time": 734320.0
+        },
+        {
+            "end_time": 736960.0,
+            "sentence": "冻得直哆嗦也不肯穿外套",
+            "start_time": 735480.0
+        },
+        {
+            "end_time": 737760.0,
+            "sentence": "虽然你是诡异",
+            "start_time": 736960.0
+        },
+        {
+            "end_time": 739680.0,
+            "sentence": "但我还是见不得张哥一副视死如归的表情",
+            "start_time": 737760.0
+        },
+        {
+            "end_time": 740920.0,
+            "sentence": "叨叨完以后就不吭声了",
+            "start_time": 739840.0
+        },
+        {
+            "end_time": 741840.0,
+            "sentence": "白衣少女愣了一下",
+            "start_time": 740920.0
+        },
+        {
+            "end_time": 742360.0,
+            "sentence": "缩回了手",
+            "start_time": 741840.0
+        },
+        {
+            "end_time": 743440.0,
+            "sentence": "脸上表情恢复如常",
+            "start_time": 742360.0
+        },
+        {
+            "end_time": 744000.0,
+            "sentence": "过了良久",
+            "start_time": 743440.0
+        },
+        {
+            "end_time": 745240.0,
+            "sentence": "他慢吞吞说句谢谢",
+            "start_time": 744000.0
+        },
+        {
+            "end_time": 745920.0,
+            "sentence": "话音刚落",
+            "start_time": 745240.0
+        },
+        {
+            "end_time": 747200.0,
+            "sentence": "身上那股束缚感突然消失了",
+            "start_time": 745920.0
+        },
+        {
+            "end_time": 748080.0,
+            "sentence": "氛围一度很奇怪",
+            "start_time": 747200.0
+        },
+        {
+            "end_time": 750800.0,
+            "sentence": "披着外套的白衣少女和不知道该怎么办的我们一片沉默",
+            "start_time": 748080.0
+        },
+        {
+            "end_time": 751880.0,
+            "sentence": "我咽了口口水",
+            "start_time": 750800.0
+        },
+        {
+            "end_time": 752480.0,
+            "sentence": "女生问那个",
+            "start_time": 751880.0
+        },
+        {
+            "end_time": 753580.0,
+            "sentence": "你来根烤肠不",
+            "start_time": 752480.0
+        },
+        {
+            "end_time": 754280.0,
+            "sentence": "他看向我",
+            "start_time": 753600.0
+        },
+        {
+            "end_time": 755040.0,
+            "sentence": "像是在思考",
+            "start_time": 754280.0
+        },
+        {
+            "end_time": 755760.0,
+            "sentence": "随后点点头",
+            "start_time": 755040.0
+        },
+        {
+            "end_time": 756360.0,
+            "sentence": "要吃就行",
+            "start_time": 755760.0
+        },
+        {
+            "end_time": 757600.0,
+            "sentence": "我熟练地掏出烤肠机",
+            "start_time": 756360.0
+        },
+        {
+            "end_time": 758480.0,
+            "sentence": "开始随地大小烤",
+            "start_time": 757600.0
+        },
+        {
+            "end_time": 759380.0,
+            "sentence": "要辣椒面吗",
+            "start_time": 758480.0
+        },
+        {
+            "end_time": 759880.0,
+            "sentence": "要",
+            "start_time": 759760.0
+        },
+        {
+            "end_time": 760280.0,
+            "sentence": "一点点",
+            "start_time": 759880.0
+        },
+        {
+            "end_time": 760640.0,
+            "sentence": "很快",
+            "start_time": 760280.0
+        },
+        {
+            "end_time": 761560.0,
+            "sentence": "我递给他两根",
+            "start_time": 760760.0
+        },
+        {
+            "end_time": 762680.0,
+            "sentence": "咧嘴笑嘿嘿",
+            "start_time": 761560.0
+        },
+        {
+            "end_time": 763120.0,
+            "sentence": "尝尝",
+            "start_time": 762680.0
+        },
+        {
+            "end_time": 763800.0,
+            "sentence": "他接过去",
+            "start_time": 763120.0
+        },
+        {
+            "end_time": 764840.0,
+            "sentence": "慢吞吞咬着烤肠",
+            "start_time": 763800.0
+        },
+        {
+            "end_time": 765840.0,
+            "sentence": "眼里也逐渐有了神采",
+            "start_time": 764840.0
+        },
+        {
+            "end_time": 766960.0,
+            "sentence": "看上去像人了",
+            "start_time": 765840.0
+        },
+        {
+            "end_time": 768320.0,
+            "sentence": "空气中的香味也慢慢散去",
+            "start_time": 766960.0
+        },
+        {
+            "end_time": 769160.0,
+            "sentence": "张哥肚子咕咕叫",
+            "start_time": 768320.0
+        },
+        {
+            "end_time": 770080.0,
+            "sentence": "我给他也烤了几根",
+            "start_time": 769160.0
+        },
+        {
+            "end_time": 771440.0,
+            "sentence": "于是我们俩加上一个诡异",
+            "start_time": 770080.0
+        },
+        {
+            "end_time": 772240.0,
+            "sentence": "蹲在墙角开始吃",
+            "start_time": 771440.0
+        },
+        {
+            "end_time": 773360.0,
+            "sentence": "烤肠饱满多汁",
+            "start_time": 772240.0
+        },
+        {
+            "end_time": 774080.0,
+            "sentence": "火候刚刚好",
+            "start_time": 773360.0
+        },
+        {
+            "end_time": 775080.0,
+            "sentence": "让我一时忘了这是在哪",
+            "start_time": 774080.0
+        },
+        {
+            "end_time": 776200.0,
+            "sentence": "我默默掏出小蛋糕",
+            "start_time": 775080.0
+        },
+        {
+            "end_time": 776880.0,
+            "sentence": "开始加餐",
+            "start_time": 776200.0
+        },
+        {
+            "end_time": 777920.0,
+            "sentence": "张哥见怪不怪了",
+            "start_time": 776880.0
+        },
+        {
+            "end_time": 779400.0,
+            "sentence": "他知道这东西只有我能吃",
+            "start_time": 777920.0
+        },
+        {
+            "end_time": 781360.0,
+            "sentence": "到他手里只会变成各种奇怪的东西",
+            "start_time": 779400.0
+        },
+        {
+            "end_time": 782720.0,
+            "sentence": "白衣少女在一旁静静看着我",
+            "start_time": 781360.0
+        },
+        {
+            "end_time": 783560.0,
+            "sentence": "等我吃饱喝足后",
+            "start_time": 782720.0
+        },
+        {
+            "end_time": 785440.0,
+            "sentence": "他突然问我这是凉点出的新品吗",
+            "start_time": 783560.0
+        },
+        {
+            "end_time": 786580.0,
+            "sentence": "我能尝一下吗",
+            "start_time": 785440.0
+        },
+        {
+            "end_time": 787720.0,
+            "sentence": "我不确定他能不能喝",
+            "start_time": 786720.0
+        },
+        {
+            "end_time": 788840.0,
+            "sentence": "但他就算喝出人骨碎片",
+            "start_time": 787720.0
+        },
+        {
+            "end_time": 790000.0,
+            "sentence": "应该也不会吓死吧",
+            "start_time": 788840.0
+        },
+        {
+            "end_time": 790160.0,
+            "sentence": "于是",
+            "start_time": 790000.0
+        },
+        {
+            "end_time": 791160.0,
+            "sentence": "我递给他喝杯",
+            "start_time": 790160.0
+        },
+        {
+            "end_time": 791840.0,
+            "sentence": "这杯都给你",
+            "start_time": 791160.0
+        },
+        {
+            "end_time": 792520.0,
+            "sentence": "他接过去",
+            "start_time": 791840.0
+        },
+        {
+            "end_time": 793320.0,
+            "sentence": "敦喝了几口",
+            "start_time": 792520.0
+        },
+        {
+            "end_time": 793840.0,
+            "sentence": "渐渐地",
+            "start_time": 793320.0
+        },
+        {
+            "end_time": 794600.0,
+            "sentence": "他眯起眼睛",
+            "start_time": 793840.0
+        },
+        {
+            "end_time": 795640.0,
+            "sentence": "像一只狡猾的猫咪",
+            "start_time": 794600.0
+        },
+        {
+            "end_time": 796800.0,
+            "sentence": "少女发出感叹真好",
+            "start_time": 795640.0
+        },
+        {
+            "end_time": 797740.0,
+            "sentence": "喝点门",
+            "start_time": 796800.0
+        },
+        {
+            "end_time": 798480.0,
+            "sentence": "他又作了一口",
+            "start_time": 797920.0
+        },
+        {
+            "end_time": 799400.0,
+            "sentence": "转头看向张哥",
+            "start_time": 798480.0
+        },
+        {
+            "end_time": 801240.0,
+            "sentence": "你能跟我说一次你和你老婆的故事吗",
+            "start_time": 799400.0
+        },
+        {
+            "end_time": 801880.0,
+            "sentence": "一提老婆",
+            "start_time": 801240.0
+        },
+        {
+            "end_time": 802960.0,
+            "sentence": "张哥是什么也不怕了",
+            "start_time": 801880.0
+        },
+        {
+            "end_time": 803200.0,
+            "sentence": "一路上",
+            "start_time": 802960.0
+        },
+        {
+            "end_time": 804360.0,
+            "sentence": "我已经听他讲过无数次了",
+            "start_time": 803200.0
+        },
+        {
+            "end_time": 804800.0,
+            "sentence": "青梅竹马",
+            "start_time": 804360.0
+        },
+        {
+            "end_time": 805400.0,
+            "sentence": "天作之合",
+            "start_time": 804800.0
+        },
+        {
+            "end_time": 806200.0,
+            "sentence": "可惜老婆得了病",
+            "start_time": 805400.0
+        },
+        {
+            "end_time": 806720.0,
+            "sentence": "他为了凑钱",
+            "start_time": 806200.0
+        },
+        {
+            "end_time": 807840.0,
+            "sentence": "下了班还要去兼职",
+            "start_time": 806720.0
+        },
+        {
+            "end_time": 808960.0,
+            "sentence": "被超速的大卡车撞了",
+            "start_time": 807840.0
+        },
+        {
+            "end_time": 810000.0,
+            "sentence": "他想凑够1万积分",
+            "start_time": 808960.0
+        },
+        {
+            "end_time": 810840.0,
+            "sentence": "重新活下去",
+            "start_time": 810000.0
+        },
+        {
+            "end_time": 811160.0,
+            "sentence": "然后",
+            "start_time": 810840.0
+        },
+        {
+            "end_time": 812080.0,
+            "sentence": "钱只差一点了",
+            "start_time": 811320.0
+        },
+        {
+            "end_time": 813200.0,
+            "sentence": "马上就够给他做手术了",
+            "start_time": 812080.0
+        },
+        {
+            "end_time": 813360.0,
+            "sentence": "老婆",
+            "start_time": 813200.0
+        },
+        {
+            "end_time": 814160.0,
+            "sentence": "一定要等我回来啊",
+            "start_time": 813360.0
+        },
+        {
+            "end_time": 815080.0,
+            "sentence": "张哥抹了把眼泪",
+            "start_time": 814160.0
+        },
+        {
+            "end_time": 816220.0,
+            "sentence": "谁哭的那么大声",
+            "start_time": 815080.0
+        },
+        {
+            "end_time": 816600.0,
+            "sentence": "哦",
+            "start_time": 816400.0
+        },
+        {
+            "end_time": 817560.0,
+            "sentence": "原来是女鬼",
+            "start_time": 816760.0
+        },
+        {
+            "end_time": 818800.0,
+            "sentence": "但他抽的是我的卫生纸",
+            "start_time": 817560.0
+        },
+        {
+            "end_time": 819760.0,
+            "sentence": "地上丢了无数团",
+            "start_time": 818800.0
+        },
+        {
+            "end_time": 821080.0,
+            "sentence": "最后他有些不好意思的看着我",
+            "start_time": 819760.0
+        },
+        {
+            "end_time": 821800.0,
+            "sentence": "眼睛红红的",
+            "start_time": 821080.0
+        },
+        {
+            "end_time": 822880.0,
+            "sentence": "抱歉没控制住",
+            "start_time": 821800.0
+        },
+        {
+            "end_time": 824240.0,
+            "sentence": "他捏着外套的一角扯下来",
+            "start_time": 822880.0
+        },
+        {
+            "end_time": 825280.0,
+            "sentence": "还得张哥谢谢你",
+            "start_time": 824240.0
+        },
+        {
+            "end_time": 825880.0,
+            "sentence": "你是好人",
+            "start_time": 825280.0
+        },
+        {
+            "end_time": 826400.0,
+            "sentence": "我要走了",
+            "start_time": 825880.0
+        },
+        {
+            "end_time": 827600.0,
+            "sentence": "我的5,000积分给你",
+            "start_time": 826400.0
+        },
+        {
+            "end_time": 828400.0,
+            "sentence": "够吗",
+            "start_time": 827600.0
+        }
+    ]

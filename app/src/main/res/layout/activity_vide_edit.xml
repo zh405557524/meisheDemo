@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/llRoot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_primary"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/flToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bg_toolbar"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <!-- 顶部标题栏 -->
+            <RelativeLayout
+                android:id="@+id/rlToolbar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:layout_marginTop="@dimen/dp_38">
+
+                <Button
+                    android:id="@+id/btnMainTop"
+                    android:layout_width="@dimen/dp_80"
+                    android:layout_height="@dimen/dp_34"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="@dimen/dp_16"
+                    android:background="@drawable/bg_button_primary"
+                    android:text="导出"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/sp_14" />
+
+                <ImageView
+                    android:id="@+id/ivBack"
+                    android:layout_width="@dimen/dp_24"
+                    android:layout_height="@dimen/dp_24"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/dp_16"
+                    android:contentDescription="返回"
+                    android:src="@mipmap/icon_back" />
+
+                <TextView
+                    android:id="@+id/tvTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text=""
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/sp_16" />
+            </RelativeLayout>
+        </FrameLayout>
+
+        <!-- 视频画面 -->
+
+        <FrameLayout
+            android:id="@+id/flVideoContainer"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            app:layout_constraintBottom_toTopOf="@id/flFragmentContainer"
+            app:layout_constraintTop_toBottomOf="@id/flToolbar">
+
+            <FrameLayout
+                android:id="@+id/flVideo"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_288"
+                android:layout_gravity="center">
+
+                <com.soul.mediapicker.view.FyLiveWindow
+                    android:id="@+id/ivVideo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="视频画面"
+                    android:scaleType="centerCrop" />
+
+
+            </FrameLayout>
+
+
+            <ImageView
+                android:id="@+id/imageViewPlay"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/icon_play_new"
+                android:visibility="gone" />
+
+            <!-- 可滑动进度条 -->
+            <SeekBar
+                android:id="@+id/sbStrength"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="@dimen/dp_8"
+                android:progress="0"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvCurrentTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dp_16"
+                android:layout_marginTop="@dimen/dp_4"
+                android:text="01:10"
+                android:textColor="@color/color_222224"
+                android:textSize="@dimen/sp_12"
+                android:visibility="gone"
+                app:layout_constraintStart_toStartOf="@id/sbStrength"
+                app:layout_constraintTop_toBottomOf="@id/sbStrength" />
+
+            <TextView
+                android:id="@+id/tvDurationTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/dp_16"
+                android:layout_marginTop="@dimen/dp_4"
+                android:text="02:30"
+                android:textColor="@color/color_222224"
+                android:textSize="@dimen/sp_12"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="@id/sbStrength"
+                app:layout_constraintTop_toBottomOf="@id/sbStrength" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/flFragmentContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxHeight="@dimen/dp_520"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <FrameLayout
+                android:id="@+id/flFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </FrameLayout>
+        
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

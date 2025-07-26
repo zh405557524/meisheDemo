@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteAlpha87">#DEFFFFFF</color>
+
+    <color name="primary">#FF6200EE</color>
+    <color name="secondPrimary">#1865E2</color>
+    <color name="primary3">#FF5406FF</color>
+    <color name="primary4">#FF5000FF</color>
+    <color name="primary5">#1865E2</color>
+    <color name="primary6">#1865E2</color>
+    <color name="primary7">#1865E2</color>
+
+    <color name="bg_primary">#FF171719</color>
+    <color name="bg_secondary">#FF000000</color>
+    <color name="bg_toolbar">#FF0F0F11</color>
+
+
+    <color name="main_text_color">#222224</color>
+
+    <!-- ✅ 文字 - 主次层级 -->
+    <color name="text_color_primary">#FFFFFF</color>      <!-- 主文字色（正文、标题） -->
+    <color name="text_color_secondary">#757575</color>    <!-- 次要文字（副标题、摘要） -->
+    <color name="text_color_tertiary">#9E9E9E</color>     <!-- 弱提示文字 -->
+    <color name="text_color_disabled">#BDBDBD</color>     <!-- 不可点击、禁用状态 -->
+
+    <!-- 🎯 文字 - 状态色 -->
+    <color name="text_color_link">#2962FF</color>         <!-- 链接文字 -->
+    <color name="text_color_success">#4CAF50</color>      <!-- 成功提示 -->
+    <color name="text_color_warning">#FF9800</color>      <!-- 警告提示 -->
+    <color name="text_color_error">#F44336</color>        <!-- 错误提示 -->
+
+    <!-- 🌙 深浅色背景适配 -->
+    <color name="text_color_on_dark">#FFFFFF</color>      <!-- 深色背景下文字（常用于夜间模式） -->
+    <color name="text_color_on_light">#000000</color>     <!-- 浅色背景下文字 -->
+    <color name="text_color_inverse">#FFFFFF</color>      <!-- 与背景对比使用（可动态切换） -->
+
+    <!-- 半透明黑色（透明度 85%） -->
+    <color name="black_90">#E5000000</color>
+    <color name="black_85">#D9000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_70">#b3000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_45">#66000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_25">#40000000</color> <!-- 黑色（透明度 20%） -->
+    <color name="black_20">#33000000</color> <!-- 黑色（透明度 20%） -->
+    <color name="black_12">#1E000000</color> <!-- 黑色（透明度 20%） -->
+    <color name="black_5">#0D000000</color> <!-- 黑色（透明度 20%） -->
+
+    <color name="clolr_13171C">#13171C</color>
+    <color name="clolr_13171C_70">#7013171C</color>
+    <color name="color_222224">#222224</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_0A0C0E">#0A0C0E</color>
+    <color name="color_16191D">#16191D</color>
+    <color name="color_87white">#DEFFFFFF</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_transparent_10">#1a000000</color>
+    <color name="color_text_gray">#7A7A7C</color>
+    <color name="color_32323E">#32323E</color>
+    <color name="color_32373C">#32373C</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_FF999999">#FF999999</color>
+    <color name="DEFFFFFF">#DEFFFFFF</color>
+    <color name="color_1865E2">#1865E2</color>
+    <color name="color_13171C">#13171C</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_D9D9D9">#D9D9D9</color>
+    <color name="color_DEFFFFFF">#DEFFFFFF</color>
+    <color name="color_FFD78D">#FFD78D</color>
+    <color name="color_53C6FF">#53C6FF</color>
+    <color name="color_95FF61">#95FF61</color>
+    <color name="color_FF9C23">#FF9C23</color>
+    <color name="color_4A90E2">#FF4A90E2</color>
+    <color name="color_1DB954">#FF1DB954</color>
+    <color name="color_25C1FF">#25C1FF</color>
+    <color name="color_loading_text">#ffffff</color>
+    <color name="color_loading">#FF5A7AEE</color>
+    <color name="color_srt">#FFFFFF</color>
+    <color name="color_step">#1865E2</color>
+
+    <color name="text_color_plot_normal">#D9D9D9</color>
+    <color name="text_color_plot_select">#D9D9D9</color>
+    <color name="text_color_all_n">#DEFFFFFF</color>
+    <color name="text_color_all_p">#25C1FF</color>
+    <color name="color_text_special_n">#DEFFFFFF</color>
+    <color name="color_text_special_p">#25C1FF</color>
+    <color name="photoed_text_selected">#FFFFFF</color>
+    <color name="photoed_text_normal">#FF999999</color>
+
+
+</resources>
