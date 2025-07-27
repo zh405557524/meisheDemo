@@ -14,6 +14,8 @@ import com.soul.lib.utils.LogUtil
 import com.soul.lib.utils.ToastUtils
 import com.soul.mediapicker.DecodeType
 import com.soul.mediapicker.base.BaseActivity
+import com.soul.mediapicker.bean.SrtConfig
+import com.soul.mediapicker.bean.srtDefaultByHeight
 import com.soul.mediapicker.databinding.ActivityVideEditBinding
 import com.soul.mediapicker.manager.NvsSteamManager
 import com.soul.mediapicker.utils.LoadingDialogUtil
@@ -128,6 +130,7 @@ class VideoEditActivity : BaseActivity<ActivityVideEditBinding>() {
      * 加载视频数据
      */
     private fun loadVideoData() {
+        LoadingDialogUtil.showLoading(this@VideoEditActivity, "正在加载视频数据...")
         videoEditViewModel.loadVideoData(this, object : VideoEditViewModel.OnVideoDataLoadListener {
             override fun onSuccess(videoDataModel: VideoDataModel) {
                 LogUtil.i(
@@ -148,7 +151,7 @@ class VideoEditActivity : BaseActivity<ActivityVideEditBinding>() {
             override fun onProgress(message: String) {
                 LogUtil.i(TAG, "加载进度: $message")
                 // 可以在这里更新加载对话框的消息
-                LoadingDialogUtil.showLoading(this@VideoEditActivity, message)
+                LoadingDialogUtil.setText(message)
             }
         })
     }
@@ -179,33 +182,30 @@ class VideoEditActivity : BaseActivity<ActivityVideEditBinding>() {
                     item.localPath, 0, 0, false // 假设每个视频片段5秒，非静音
                 )
             }
-            
+
             // 处理字幕数据
             handleSubtitleData(videoDataModel.subtitleList)
-            
+
             LogUtil.i(TAG, "视频数据处理完成，时间线已创建。")
             NvsSteamManager.instance.prepare()
             playerFunction.show()
         }
     }
-    
+
     /**
      * 处理字幕数据
      */
     private fun handleSubtitleData(subtitleList: List<CartoonTimelineItem>) {
         LogUtil.i(TAG, "开始处理字幕数据，共 ${subtitleList.size} 条字幕")
-        
+        var srt = srtDefaultByHeight(25.0f)
+        NvsSteamManager.instance.addAllCaption(subtitleList, srt, null)
         // 这里可以添加字幕处理逻辑
         // 例如：将字幕添加到时间线、显示字幕等
         subtitleList.forEachIndexed { index, subtitle ->
-            LogUtil.i(TAG, "字幕 ${index + 1}: ${subtitle.start}ms - ${subtitle.end}ms: ${subtitle.srt.text}")
-            
-            // 示例：可以在这里添加字幕到时间线
-            // NvsSteamManager.instance.addSubtitle(
-            //     subtitle.srt.text ?: "",
-            //     subtitle.start.toLong(),
-            //     subtitle.end.toLong()
-            // )
+            LogUtil.i(
+                TAG,
+                "字幕 ${index + 1}: ${subtitle.start}ms - ${subtitle.end}ms: ${subtitle.srt.text}"
+            )
         }
     }
 

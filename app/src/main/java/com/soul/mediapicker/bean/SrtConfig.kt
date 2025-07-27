@@ -50,3 +50,27 @@ data class SrtPosition(
     var isMidY: Boolean,
     var type: Int,
 )
+
+
+data class ScaleAndRotateBean(
+    var assetAnchor: PointF?,
+    var scaleFactor: List<Float>?,
+    var angle: Float?,
+    var translateCaptionPf: PointF?,
+    var isVertical: Boolean = false//是否是竖屏
+) {
+    fun copy(): ScaleAndRotateBean {
+        val tempScaleFactor = mutableListOf<Float>()
+        scaleFactor?.forEach {
+            tempScaleFactor.add(it)
+        }
+
+        return ScaleAndRotateBean(
+            assetAnchor = PointF(assetAnchor?.x ?: 0f, assetAnchor?.y ?: 0f),
+            scaleFactor = tempScaleFactor,
+            angle = angle,
+            translateCaptionPf = PointF(translateCaptionPf?.x ?: 0f, translateCaptionPf?.y ?: 0f),
+            isVertical = isVertical
+        )
+    }
+}

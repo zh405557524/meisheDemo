@@ -1,5 +1,8 @@
 package com.soul.mediapicker.utils
 
+import android.graphics.PointF
+import com.meicam.sdk.NvsCaption
+import com.meicam.sdk.NvsTimelineCaption
 import com.soul.mediapicker.manager.ParameterSettingValues
 import java.io.BufferedOutputStream
 import java.io.File
@@ -45,5 +48,57 @@ object Util {
         return BigInteger(1, md.digest(url.toByteArray()))
             .toString(16).padStart(32, '0')
     }
+
+    //获取字幕自动换行文本
+    fun getAutoWrapWord(
+        caption: NvsTimelineCaption,
+        maxWidth: Float,
+        source: String,
+        curText: String,
+        position: Int
+    ): String {
+        if (source.isEmpty()) {
+            return ""
+        }
+        caption.text = source
+        val firstVertices = caption.getCaptionBoundingVertices(NvsCaption.BOUNDING_TYPE_TEXT)
+        val firstLeftTop: PointF = firstVertices[0]
+        val firstRightBottom: PointF = firstVertices[2]
+        val width = firstRightBottom.x - firstLeftTop.x
+        if (width <= maxWidth) {
+            return source
+        } else {
+            val ratio = width / maxWidth
+            var maxNum = (source.length / ratio).toInt()
+            if (maxNum == 0) {
+                maxNum = 1
+            }
+            val lineNum = source.length / maxNum
+            val end = source.length % maxNum
+            var ret = ""
+            for (index in 0 until lineNum) {
+                ret += source.substring(index * maxNum, (index + 1) * maxNum)
+                if (index < lineNum - 1) {
+                    ret += "\n"
+                }
+            }
+            if (end > 0) {
+                ret += "\n${source.substring(source.length - end, source.length)}"
+            }
+            return clearOtherWrap(ret)
+        }
+    }
+
+
+    //清除多余换行符
+    private fun clearOtherWrap(data: String): String {
+        if (data.contains("\n\n")) {
+            val nData = data.replace("\n\n", "\n")
+            return clearOtherWrap(nData)
+        } else {
+            return data
+        }
+    }
+
 
 }

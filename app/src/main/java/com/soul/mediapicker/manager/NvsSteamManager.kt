@@ -1,18 +1,27 @@
 package com.soul.mediapicker.manager
 
 import android.content.Context
+import android.graphics.Color
+import android.graphics.PointF
 import com.meicam.sdk.NvsAudioClip
 import com.meicam.sdk.NvsAudioResolution
 import com.meicam.sdk.NvsAudioTrack
+import com.meicam.sdk.NvsCaption
+import com.meicam.sdk.NvsColor
 import com.meicam.sdk.NvsRational
 import com.meicam.sdk.NvsStreamingContext
 import com.meicam.sdk.NvsTimeline
+import com.meicam.sdk.NvsTimelineCaption
 import com.meicam.sdk.NvsVideoClip
 import com.meicam.sdk.NvsVideoResolution
 import com.meicam.sdk.NvsVideoTrack
 import com.soul.lib.utils.LogUtil
+import com.soul.mediapicker.bean.ScaleAndRotateBean
+import com.soul.mediapicker.bean.SrtConfig
 import com.soul.mediapicker.module.videoedit.CartoonTimelineItem
+import com.soul.mediapicker.module.videoedit.Srt
 import com.soul.mediapicker.utils.GsonUtil
+import com.soul.mediapicker.utils.Util
 import com.soul.mediapicker.view.FyLiveWindow
 import kotlin.math.max
 
@@ -347,19 +356,191 @@ class NvsSteamManager : INvsSteamManager {
 
 
     /**
+     * 已添加的字幕的索引
+     */
+    var captionIndex = 0
+    var currentSrtConfig: SrtConfig? = null
+    var currentScaleAndRotateBean: ScaleAndRotateBean? = null
+    var captions:List<CartoonTimelineItem> ?=null//字幕数据
+    var captionLastIndex = 0//字幕索引
+
+    /**
+     * 当前字幕集合
+     */
+    var captionMap = mutableMapOf<Srt, NvsTimelineCaption>()
+    /**
      * 添加所有的字幕
      */
-//    override fun addAllCaption(
-//        captions: List<CartoonTimelineItem>,
-//        config: SrtConfig,
-//        scaleAndRotateBean: ScaleAndRotateBean?
-//    ) {
-//        currentSrtConfig = config
-//        this.captions = captions
-//        currentScaleAndRotateBean = scaleAndRotateBean
-//        captionLastIndex = captionIndex
-//        addStepCaption(captions, config, scaleAndRotateBean)
-//    }
+     fun addAllCaption(
+        captions: List<CartoonTimelineItem>,
+        config: SrtConfig,
+        scaleAndRotateBean: ScaleAndRotateBean?
+    ) {
+        currentSrtConfig = config
+        this.captions = captions
+        currentScaleAndRotateBean = scaleAndRotateBean
+        captionLastIndex = captionIndex
+        addStepCaption(captions, config, scaleAndRotateBean)
+    }
+
+
+    /**
+     *步进添加字幕
+     */
+    private fun addStepCaption(
+        captions: List<CartoonTimelineItem>?,
+        config: SrtConfig?,
+        scaleAndRotateBean: ScaleAndRotateBean?
+    ) {
+        if (captions == null || timeline == null || config == null) return
+        //从最后一个字幕开始添加
+        if (captionLastIndex > 0 && captionLastIndex <= captions.size) {
+            var start = captionLastIndex - 4
+            if (start < 0) start = 0
+            for (index in start until captionLastIndex) {
+                val caption = captions[index]
+                if (captionMap.containsKey(caption.srt)) {
+                    continue
+                }
+                appendCaption(caption.srt, config, scaleAndRotateBean)
+            }
+            captionLastIndex = start
+        }
+
+        //步进添加字幕
+        var captionEnd = captionIndex + 4
+        if (captionIndex >= captions.size) {
+            return
+        }
+        if (captionEnd > captions.size) {
+            captionEnd = captions.size
+        }
+        var start = captionIndex - 4
+        if (start < 0) start = 0
+        for (index in start until captionEnd) {
+            val caption = captions[index]
+            if (captionMap.containsKey(caption.srt)) {
+                continue
+            }
+            appendCaption(caption.srt, config, scaleAndRotateBean)
+        }
+        captionIndex = captionEnd
+    }
+
+    var coverTime = 0L//封面时间,单位：毫秒
+    /**
+     * 添加字幕
+     */
+    private fun appendCaption(
+        srt: Srt, srtConfig: SrtConfig, scaleAndRotateBean: ScaleAndRotateBean?,
+        isTitle: Boolean = false
+    ): NvsTimelineCaption? {
+        if (timeline == null) return null
+
+        if (srt.start == null || srt.end == null || srt.text == null) {
+            return null
+        }
+
+        val text = srt.text ?: ""
+
+        var srtStart = (srt.start ?: 0.0) * 1000
+        if (srtStart == 0.0) {
+            srtStart = coverTime * 1000.0//所有字幕都在封面后
+        }
+        val srtEnd = (srt.end ?: 0.0) * 1000
+        val srtDuration = srtEnd.toLong() - srtStart.toLong()
+        val caption =
+            timeline!!.addModularCaption(text, srtStart.toLong(), srtDuration) ?: return null
+        if (!isTitle) {
+            captionMap[srt] = caption
+        }
+
+        //设置字幕动画
+//        if (srt.captionAnimationConfig != null) {
+//            Util.applyCaptionAnimation(
+//                caption,
+//                srtDuration / 1000,
+//                srt.captionAnimationConfig!!
+//            )
+//        }
+        var realWidth = resolutionWidth.toFloat() - srtConfig.position.x
+        if (srtConfig.position.isMidX) {
+            realWidth = resolutionWidth.toFloat()
+        }
+        setCaptionConfig(srtConfig, caption, scaleAndRotateBean)
+        val wrapText = Util.getAutoWrapWord(caption, realWidth, text, "", 0)
+        caption.text = wrapText
+        return caption
+    }
+
+    private fun setCaptionConfig(
+        srtConfig: SrtConfig?,
+        caption: NvsTimelineCaption,
+        scaleAndRotateBean: ScaleAndRotateBean?
+    ) {
+        srtConfig?.let {
+            val fontUrl = srtConfig.fontInfo?.url
+//            val fontPath = if (fontUrl.isNullOrEmpty()) {
+//                PersistStore.getFontLocalPath(PersistStore.getDefaultFontInfo()?.url ?: "")
+//                    ?: Consts.cartoonDefaultFontPath
+//            } else {
+//                PersistStore.getFontLocalPath(fontUrl)
+//            }
+//            caption.setFontByFilePath(fontPath)
+            caption.outlineWidth = 14F
+            caption.bold = false
+            caption.weight = 66
+            caption.anchorPoint = PointF(0.5f, 0.5f)
+            caption.textAlignment = NvsCaption.TEXT_ALIGNMENT_CENTER
+            if (srtConfig.borderColor != null) {
+                caption.drawOutline = true
+                caption.outlineColor = colorStringToNvsColor(srtConfig.borderColor)
+                caption.outlineWidth = (srtConfig.borderWidth ?: 4).toFloat() * 2
+            } else {
+                caption.drawOutline = false
+            }
+
+            srtConfig.backgroundColor?.let {
+                caption.backgroundColor = colorStringToNvsColor(it)
+                caption.backgroundRadius = 0F
+            }
+            if (!srtConfig.shadowColor.isNullOrEmpty() && srtConfig.shadowOffset != null) {
+                caption.shadowColor = colorStringToNvsColor(srtConfig.shadowColor)
+                caption.shadowOffset = srtConfig.shadowOffset
+            }
+            caption.textColor = colorStringToNvsColor(srtConfig.color)
+            caption.fontSize = srtConfig.fontSize.toFloat()
+            caption.opacity = srtConfig.alpha
+
+        }
+
+
+        scaleAndRotateBean?.let {
+            if (null != it.assetAnchor && null != it.scaleFactor && null != it.angle) {
+                it.scaleFactor?.forEach { scale ->
+                    caption.scaleCaption(scale, it.assetAnchor)
+                }
+                caption.rotateCaption(it.angle!!)
+            }
+            if (null != it.translateCaptionPf) {
+            }
+            caption.translateCaption(it.translateCaptionPf)
+
+        }
+    }
+
+
+    private fun colorStringToNvsColor(colorString: String?): NvsColor? {
+        if (colorString == null || colorString.isEmpty()) return null
+        val color = NvsColor(1F, 1F, 1F, 1F)
+        val hexColor = Color.parseColor(colorString)
+        color.a = (hexColor and -0x1000000 ushr 24).toFloat() / 0xFF
+        color.r = (hexColor and 0x00ff0000 shr 16).toFloat() / 0xFF
+        color.g = (hexColor and 0x0000ff00 shr 8).toFloat() / 0xFF
+        color.b = (hexColor and 0x000000ff).toFloat() / 0xFF
+        return color
+    }
+
     /**
      * 播放进度
      * @param progress 进度  千分比 1~1000
